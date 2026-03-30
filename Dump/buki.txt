@@ -1,0 +1,3939 @@
+//GAME NAME:		SUPER ROBOT TAISEN 4
+
+//BLOCK #000 NAME:		BUKI NAME
+
+//POINTER #0 @ $C7760 - STRING #0 @ $C7C80
+
+#W16($C7760)
+//<end>
+
+
+//POINTER #1 @ $C7762 - STRING #1 @ $C7C81
+
+#W16($C7762)
+//ビ－ムサ－ベル<end>
+
+
+//POINTER #2 @ $C7764 - STRING #2 @ $C7C81
+
+#W16($C7764)
+//ビ－ムサ－ベル<end>
+
+
+//POINTER #3 @ $C7766 - STRING #3 @ $C7C81
+
+#W16($C7766)
+//ビ－ムサ－ベル<end>
+
+
+//POINTER #4 @ $C7768 - STRING #4 @ $C7C81
+
+#W16($C7768)
+//ビ－ムサ－ベル<end>
+
+
+//POINTER #5 @ $C776A - STRING #5 @ $C7C81
+
+#W16($C776A)
+//ビ－ムサ－ベル<end>
+
+
+//POINTER #6 @ $C776C - STRING #6 @ $C7C81
+
+#W16($C776C)
+//ビ－ムサ－ベル<end>
+
+
+//POINTER #7 @ $C776E - STRING #7 @ $C7C81
+
+#W16($C776E)
+//ビ－ムサ－ベル<end>
+
+
+//POINTER #8 @ $C7770 - STRING #8 @ $C7C81
+
+#W16($C7770)
+//ビ－ムサ－ベル<end>
+
+
+//POINTER #9 @ $C7772 - STRING #9 @ $C7C89
+
+#W16($C7772)
+//ビ－ムライフル<B><end>
+
+
+//POINTER #10 @ $C7774 - STRING #10 @ $C7C89
+
+#W16($C7774)
+//ビ－ムライフル<B><end>
+
+
+//POINTER #11 @ $C7776 - STRING #11 @ $C7C89
+
+#W16($C7776)
+//ビ－ムライフル<B><end>
+
+
+//POINTER #12 @ $C7778 - STRING #12 @ $C7C89
+
+#W16($C7778)
+//ビ－ムライフル<B><end>
+
+
+//POINTER #13 @ $C777A - STRING #13 @ $C7C89
+
+#W16($C777A)
+//ビ－ムライフル<B><end>
+
+
+//POINTER #14 @ $C777C - STRING #14 @ $C7C89
+
+#W16($C777C)
+//ビ－ムライフル<B><end>
+
+
+//POINTER #15 @ $C777E - STRING #15 @ $C7C89
+
+#W16($C777E)
+//ビ－ムライフル<B><end>
+
+
+//POINTER #16 @ $C7780 - STRING #16 @ $C7C92
+
+#W16($C7780)
+//バルカン<end>
+
+
+//POINTER #17 @ $C7782 - STRING #17 @ $C7C92
+
+#W16($C7782)
+//バルカン<end>
+
+
+//POINTER #18 @ $C7784 - STRING #18 @ $C7C92
+
+#W16($C7784)
+//バルカン<end>
+
+
+//POINTER #19 @ $C7786 - STRING #19 @ $C7C92
+
+#W16($C7786)
+//バルカン<end>
+
+
+//POINTER #20 @ $C7788 - STRING #20 @ $C7C92
+
+#W16($C7788)
+//バルカン<end>
+
+
+//POINTER #21 @ $C778A - STRING #21 @ $C7C92
+
+#W16($C778A)
+//バルカン<end>
+
+
+//POINTER #22 @ $C778C - STRING #22 @ $C7C97
+
+#W16($C778C)
+//ハイパ－バズ－カ<end>
+
+
+//POINTER #23 @ $C778E - STRING #23 @ $C7C97
+
+#W16($C778E)
+//ハイパ－バズ－カ<end>
+
+
+//POINTER #24 @ $C7790 - STRING #24 @ $C7CA0
+
+#W16($C7790)
+//ハイパ－ハンマ－<end>
+
+
+//POINTER #25 @ $C7792 - STRING #25 @ $C7CA9
+
+#W16($C7792)
+//ミサイルランチャ－<end>
+
+
+//POINTER #26 @ $C7794 - STRING #26 @ $C7CB3
+
+#W16($C7794)
+//ロングライフル<B><end>
+
+
+//POINTER #27 @ $C7796 - STRING #27 @ $C7CBC
+
+#W16($C7796)
+//ロングビ－ムサ－ベル<end>
+
+
+//POINTER #28 @ $C7798 - STRING #28 @ $C7CC7
+
+#W16($C7798)
+//グレネ－ドランチャ－<end>
+
+
+//POINTER #29 @ $C779A - STRING #29 @ $C7CC7
+
+#W16($C779A)
+//グレネ－ドランチャ－<end>
+
+
+//POINTER #30 @ $C779C - STRING #30 @ $C7CC7
+
+#W16($C779C)
+//グレネ－ドランチャ－<end>
+
+
+//POINTER #31 @ $C779E - STRING #31 @ $C7CD2
+
+#W16($C779E)
+//ハイパ－メガランチャ－<B><end>
+
+
+//POINTER #32 @ $C77A0 - STRING #32 @ $C7CDF
+
+#W16($C77A0)
+//ビ－ムガン<B><end>
+
+
+//POINTER #33 @ $C77A2 - STRING #33 @ $C7CDF
+
+#W16($C77A2)
+//ビ－ムガン<B><end>
+
+
+//POINTER #34 @ $C77A4 - STRING #34 @ $C7CDF
+
+#W16($C77A4)
+//ビ－ムガン<B><end>
+
+
+//POINTER #35 @ $C77A6 - STRING #35 @ $C7CE6
+
+#W16($C77A6)
+//スマッシュビ－ム<end>
+
+
+//POINTER #36 @ $C77A8 - STRING #36 @ $C7CEF
+
+#W16($C77A8)
+//ダブルバルカン<end>
+
+
+//POINTER #37 @ $C77AA - STRING #37 @ $C7CF7
+
+#W16($C77AA)
+//ダブルビ－ムライフル<B><end>
+
+
+//POINTER #38 @ $C77AC - STRING #38 @ $C7D03
+
+#W16($C77AC)
+//ダブルキャノン<B><end>
+
+
+//POINTER #39 @ $C77AE - STRING #39 @ $C7D0C
+
+#W16($C77AE)
+//ハイパ－ビ－ムサ－ベル<end>
+
+
+//POINTER #40 @ $C77B0 - STRING #40 @ $C7EBB
+
+#W16($C77B0)
+//ミサイル<end>
+
+
+//POINTER #41 @ $C77B2 - STRING #41 @ $C7D18
+
+#W16($C77B2)
+//ハイメガキャノン<map1><map2><B><end>
+
+
+//POINTER #42 @ $C77B4 - STRING #42 @ $C7D24
+
+#W16($C77B4)
+//ビ－ムキャノン<B><end>
+
+
+//POINTER #43 @ $C77B6 - STRING #43 @ $C7D2D
+
+#W16($C77B6)
+//フィンファンネル<end>
+
+
+//POINTER #44 @ $C77B8 - STRING #44 @ $C7D36
+
+#W16($C77B8)
+//メガマシンキャノン<end>
+
+
+//POINTER #45 @ $C77BA - STRING #45 @ $C7D40
+
+#W16($C77BA)
+//ヴェスバ－<B><end>
+
+
+//POINTER #46 @ $C77BC - STRING #46 @ $C7D47
+
+#W16($C77BC)
+//ガトリングガン<end>
+
+
+//POINTER #47 @ $C77BE - STRING #47 @ $C7D4F
+
+#W16($C77BE)
+//アトミックバズ－カ<map1><map2><end>
+
+
+//POINTER #48 @ $C77C0 - STRING #48 @ $C7D5B
+
+#W16($C77C0)
+//メガビ－ム砲<B><end>
+
+
+//POINTER #49 @ $C77C2 - STRING #49 @ $C7D64
+
+#W16($C77C2)
+//大型ビ－ムサ－ベル<end>
+
+
+//POINTER #50 @ $C77C4 - STRING #50 @ $C7D70
+
+#W16($C77C4)
+//フォ－ルディングバズ－カ<end>
+
+
+//POINTER #51 @ $C77C6 - STRING #51 @ $C7D7D
+
+#W16($C77C6)
+//爆導索<map1><map2><end>
+
+
+//POINTER #52 @ $C77C8 - STRING #52 @ $C7D86
+
+#W16($C77C8)
+//集束ミサイル<end>
+
+
+//POINTER #53 @ $C77CA - STRING #53 @ $C7D8F
+
+#W16($C77CA)
+//マイクロミサイル<map1><map2><end>
+
+
+//POINTER #54 @ $C77CC - STRING #54 @ $C7D9A
+
+#W16($C77CC)
+//240ミリキャノン<end>
+
+
+//POINTER #55 @ $C77CE - STRING #55 @ $C7DA4
+
+#W16($C77CE)
+//120ミリキャノン<end>
+
+
+//POINTER #56 @ $C77D0 - STRING #56 @ $C7DAE
+
+#W16($C77D0)
+//ボップミサイル<end>
+
+
+//POINTER #57 @ $C77D2 - STRING #57 @ $C7DB6
+
+#W16($C77D2)
+//小型ミサイル<end>
+
+
+//POINTER #58 @ $C77D4 - STRING #58 @ $C88AB
+
+#W16($C77D4)
+//破壞光線<end>
+
+
+//POINTER #59 @ $C77D6 - STRING #59 @ $C7DBF
+
+#W16($C77D6)
+//ベガトロンビ－ム<end>
+
+
+//POINTER #60 @ $C77D8 - STRING #60 @ $C7DC8
+
+#W16($C77D8)
+//ハンドグレネイド<P><end>
+
+
+//POINTER #61 @ $C77DA - STRING #61 @ $C7DD2
+
+#W16($C77DA)
+//ロ－ズカッタ－<end>
+
+
+//POINTER #62 @ $C77DC - STRING #62 @ $C7DDA
+
+#W16($C77DC)
+//ゲッタ－レザ－<end>
+
+
+//POINTER #63 @ $C77DE - STRING #63 @ $C7DE2
+
+#W16($C77DE)
+//ゲッタ－トマホ－ク<end>
+
+
+//POINTER #64 @ $C77E0 - STRING #64 @ $C7DEC
+
+#W16($C77E0)
+//トマホ－クブ－メラン<P><end>
+
+
+//POINTER #65 @ $C77E2 - STRING #65 @ $C7DF8
+
+#W16($C77E2)
+//ゲッタ－ビ－ム<end>
+
+
+//POINTER #66 @ $C77E4 - STRING #66 @ $C7DF8
+
+#W16($C77E4)
+//ゲッタ－ビ－ム<end>
+
+
+//POINTER #67 @ $C77E6 - STRING #67 @ $C7E00
+
+#W16($C77E6)
+//ゲッタ－ア－ム<end>
+
+
+//POINTER #68 @ $C77E8 - STRING #68 @ $C7E08
+
+#W16($C77E8)
+//ゲッタ－ドリル<end>
+
+
+//POINTER #69 @ $C77EA - STRING #69 @ $C7E10
+
+#W16($C77EA)
+//ドリルスト－ム<end>
+
+
+//POINTER #70 @ $C77EC - STRING #70 @ $C7E18
+
+#W16($C77EC)
+//ドリルパンチ<end>
+
+
+//POINTER #71 @ $C77EE - STRING #71 @ $C7E1F
+
+#W16($C77EE)
+//格闘<end>
+
+
+//POINTER #72 @ $C77F0 - STRING #72 @ $C7E1F
+
+#W16($C77F0)
+//格闘<end>
+
+
+//POINTER #73 @ $C77F2 - STRING #73 @ $C7E1F
+
+#W16($C77F2)
+//格闘<end>
+
+
+//POINTER #74 @ $C77F4 - STRING #74 @ $C7E1F
+
+#W16($C77F4)
+//格闘<end>
+
+
+//POINTER #75 @ $C77F6 - STRING #75 @ $C7E1F
+
+#W16($C77F6)
+//格闘<end>
+
+
+//POINTER #76 @ $C77F8 - STRING #76 @ $C7E1F
+
+#W16($C77F8)
+//格闘<end>
+
+
+//POINTER #77 @ $C77FA - STRING #77 @ $C7E1F
+
+#W16($C77FA)
+//格闘<end>
+
+
+//POINTER #78 @ $C77FC - STRING #78 @ $C7E1F
+
+#W16($C77FC)
+//格闘<end>
+
+
+//POINTER #79 @ $C77FE - STRING #79 @ $C7E1F
+
+#W16($C77FE)
+//格闘<end>
+
+
+//POINTER #80 @ $C7800 - STRING #80 @ $C7E24
+
+#W16($C7800)
+//ゲッタ－ミサイル<end>
+
+
+//POINTER #81 @ $C7802 - STRING #81 @ $C7E2D
+
+#W16($C7802)
+//スピンカッタ－<end>
+
+
+//POINTER #82 @ $C7804 - STRING #82 @ $C7E35
+
+#W16($C7804)
+//ダブルトマホ－ク<end>
+
+
+//POINTER #83 @ $C7806 - STRING #83 @ $C7E3E
+
+#W16($C7806)
+//ダブルトマホ－クブ－メラン<P><end>
+
+
+//POINTER #84 @ $C7808 - STRING #84 @ $C7E4D
+
+#W16($C7808)
+//シャインスパ－ク<end>
+
+
+//POINTER #85 @ $C780A - STRING #85 @ $C7E56
+
+#W16($C780A)
+//ドリルア－ム<end>
+
+
+//POINTER #86 @ $C780C - STRING #86 @ $C7E5D
+
+#W16($C780C)
+//ライガ－ミサイル<end>
+
+
+//POINTER #87 @ $C780E - STRING #87 @ $C7E66
+
+#W16($C780E)
+//チェ－ンアタック<end>
+
+
+//POINTER #88 @ $C7810 - STRING #88 @ $C7E6F
+
+#W16($C7810)
+//ゲッタ－サイクロン<end>
+
+
+//POINTER #89 @ $C7812 - STRING #89 @ $C7E79
+
+#W16($C7812)
+//ストロングミサイル<end>
+
+
+//POINTER #90 @ $C7814 - STRING #90 @ $C7E83
+
+#W16($C7814)
+//冷凍ビ－ム<end>
+
+
+//POINTER #91 @ $C7816 - STRING #91 @ $C7E8B
+
+#W16($C7816)
+//光子力ビ－ム<B><end>
+
+
+//POINTER #92 @ $C7818 - STRING #92 @ $C7E96
+
+#W16($C7818)
+//ロケットパンチ<P><end>
+
+
+//POINTER #93 @ $C781A - STRING #93 @ $C7E9F
+
+#W16($C781A)
+//アイアンカッタ－<P><end>
+
+
+//POINTER #94 @ $C781C - STRING #94 @ $C7EBB
+
+#W16($C781C)
+//ミサイル<end>
+
+
+//POINTER #95 @ $C781E - STRING #95 @ $C7EA9
+
+#W16($C781E)
+//ダブルミサイル<end>
+
+
+//POINTER #96 @ $C7820 - STRING #96 @ $C7EB1
+
+#W16($C7820)
+//アフロダイミサイル<end>
+
+
+//POINTER #97 @ $C7822 - STRING #97 @ $C7EBB
+
+#W16($C7822)
+//ミサイル<end>
+
+
+//POINTER #98 @ $C7824 - STRING #98 @ $C7EBB
+
+#W16($C7824)
+//ミサイル<end>
+
+
+//POINTER #99 @ $C7826 - STRING #99 @ $C7EC0
+
+#W16($C7826)
+//ドリルミサイル<end>
+
+
+//POINTER #100 @ $C7828 - STRING #100 @ $C7EC0
+
+#W16($C7828)
+//ドリルミサイル<end>
+
+
+//POINTER #101 @ $C782A - STRING #101 @ $C7EC8
+
+#W16($C782A)
+//ルストハリケ－ン<end>
+
+
+//POINTER #102 @ $C782C - STRING #102 @ $C7ED1
+
+#W16($C782C)
+//ブレストファイヤ－<end>
+
+
+//POINTER #103 @ $C782E - STRING #103 @ $C7EDB
+
+#W16($C782E)
+//スクランダ－カッタ－<end>
+
+
+//POINTER #104 @ $C7830 - STRING #104 @ $C7EE6
+
+#W16($C7830)
+//サザンクロスナイフ<P><end>
+
+
+//POINTER #105 @ $C7832 - STRING #105 @ $C7EF1
+
+#W16($C7832)
+//ニ－インパルスキック<end>
+
+
+//POINTER #106 @ $C7834 - STRING #106 @ $C7EFC
+
+#W16($C7834)
+//バックスピンキック<end>
+
+
+//POINTER #107 @ $C7836 - STRING #107 @ $C7F06
+
+#W16($C7836)
+//マジンガ－ブレ－ド<end>
+
+
+//POINTER #108 @ $C7838 - STRING #108 @ $C7F10
+
+#W16($C7838)
+//スクランブルカッタ－<end>
+
+
+//POINTER #109 @ $C783A - STRING #109 @ $C7F1B
+
+#W16($C783A)
+//ネ－ブルミサイル<end>
+
+
+//POINTER #110 @ $C783C - STRING #110 @ $C7F24
+
+#W16($C783C)
+//グレ－トタイフ－ン<end>
+
+
+//POINTER #111 @ $C783E - STRING #111 @ $C7F2E
+
+#W16($C783E)
+//グレ－トブ－メラン<end>
+
+
+//POINTER #112 @ $C7840 - STRING #112 @ $C7F38
+
+#W16($C7840)
+//アトミックパンチ<P><end>
+
+
+//POINTER #113 @ $C7842 - STRING #113 @ $C7F42
+
+#W16($C7842)
+//ドリルプレッシャ－パンチ<P><end>
+
+
+//POINTER #114 @ $C7844 - STRING #114 @ $C7F50
+
+#W16($C7844)
+//ブレストバ－ン<end>
+
+
+//POINTER #115 @ $C7846 - STRING #115 @ $C7F58
+
+#W16($C7846)
+//サンダ－ブレ－ク<end>
+
+
+//POINTER #116 @ $C7848 - STRING #116 @ $C7F61
+
+#W16($C7848)
+//ハンドビ－ム<B><end>
+
+
+//POINTER #117 @ $C784A - STRING #117 @ $C7F69
+
+#W16($C784A)
+//ショルダ－ブ－メラン<end>
+
+
+//POINTER #118 @ $C784C - STRING #118 @ $C7F74
+
+#W16($C784C)
+//反重力スト－ム<end>
+
+
+//POINTER #119 @ $C784E - STRING #119 @ $C7F7F
+
+#W16($C784E)
+//ダブルハ－ケン<end>
+
+
+//POINTER #120 @ $C7850 - STRING #120 @ $C7F87
+
+#W16($C7850)
+//スクリュ－クラッシャ－<P><end>
+
+
+//POINTER #121 @ $C7852 - STRING #121 @ $C7F94
+
+#W16($C7852)
+//スペ－スサンダ－<end>
+
+
+//POINTER #122 @ $C7854 - STRING #122 @ $C7F9D
+
+#W16($C7854)
+//スピンソ－サ－<end>
+
+
+//POINTER #123 @ $C7856 - STRING #123 @ $C7FA5
+
+#W16($C7856)
+//スピンドリル<end>
+
+
+//POINTER #124 @ $C7858 - STRING #124 @ $C7FAC
+
+#W16($C7858)
+//メルトシャワ－<end>
+
+
+//POINTER #125 @ $C785A - STRING #125 @ $C7FB4
+
+#W16($C785A)
+//サイクロンビ－ム<B><end>
+
+
+//POINTER #126 @ $C785C - STRING #126 @ $C7FBE
+
+#W16($C785C)
+//ダブルカッタ－<end>
+
+
+//POINTER #127 @ $C785E - STRING #127 @ $C7FC6
+
+#W16($C785E)
+//スパ－クボンバ－<B><end>
+
+
+//POINTER #128 @ $C7860 - STRING #128 @ $C7FD0
+
+#W16($C7860)
+//ドリルアタック<end>
+
+
+//POINTER #129 @ $C7862 - STRING #129 @ $C7FD8
+
+#W16($C7862)
+//マリンミサイル<end>
+
+
+//POINTER #130 @ $C7864 - STRING #130 @ $C7FE0
+
+#W16($C7864)
+//マリンカッタ－<end>
+
+
+//POINTER #131 @ $C7866 - STRING #131 @ $C7FE8
+
+#W16($C7866)
+//ダイアナンミサイル<end>
+
+
+//POINTER #132 @ $C7868 - STRING #132 @ $C7FF2
+
+#W16($C7868)
+//スカ－レットビ－ム<B><end>
+
+
+//POINTER #133 @ $C786A - STRING #133 @ $C7FFD
+
+#W16($C786A)
+//ボロットパンチ<end>
+
+
+//POINTER #134 @ $C786C - STRING #134 @ $C8005
+
+#W16($C786C)
+//スペシャルボロットパンチ<end>
+
+
+//POINTER #135 @ $C786E - STRING #135 @ $C8012
+
+#W16($C786E)
+//スペシャルDXボロットパンチ<end>
+
+
+//POINTER #136 @ $C7870 - STRING #136 @ $C8021
+
+#W16($C7870)
+//光子力ミサイル<end>
+
+
+//POINTER #137 @ $C7872 - STRING #137 @ $C802C
+
+#W16($C7872)
+//フィンガ－ミサイル<P><end>
+
+
+//POINTER #138 @ $C7874 - STRING #138 @ $C8037
+
+#W16($C7874)
+//30ミリマシンガン<end>
+
+
+//POINTER #139 @ $C7876 - STRING #139 @ $C8041
+
+#W16($C7876)
+//スカイリッパ－<P><end>
+
+
+//POINTER #140 @ $C7878 - STRING #140 @ $C804A
+
+#W16($C7878)
+//ドスブレッシャ－<end>
+
+
+//POINTER #141 @ $C787A - STRING #141 @ $C8053
+
+#W16($C787A)
+//マグネレ－ザ－<end>
+
+
+//POINTER #142 @ $C787C - STRING #142 @ $C805B
+
+#W16($C787C)
+//ロックファイタ－<end>
+
+
+//POINTER #143 @ $C787E - STRING #143 @ $C8064
+
+#W16($C787E)
+//エレクトロダ－ト<end>
+
+
+//POINTER #144 @ $C7880 - STRING #144 @ $C806D
+
+#W16($C7880)
+//マグネクロ－<end>
+
+
+//POINTER #145 @ $C7882 - STRING #145 @ $C8074
+
+#W16($C7882)
+//アトミックバ－ナ－<end>
+
+
+//POINTER #146 @ $C7884 - STRING #146 @ $C807E
+
+#W16($C7884)
+//アンカ－ナックル<end>
+
+
+//POINTER #147 @ $C7886 - STRING #147 @ $C8087
+
+#W16($C7886)
+//380ミリ戦車砲<end>
+
+
+//POINTER #148 @ $C7888 - STRING #148 @ $C8093
+
+#W16($C7888)
+//メカニフィクサ－<end>
+
+
+//POINTER #149 @ $C788A - STRING #149 @ $C809C
+
+#W16($C788A)
+//爆雷<end>
+
+
+//POINTER #150 @ $C788C - STRING #150 @ $C80A1
+
+#W16($C788C)
+//クラフトドリル<end>
+
+
+//POINTER #151 @ $C788E - STRING #151 @ $C80A9
+
+#W16($C788E)
+//バトルリタ－ン<P><end>
+
+
+//POINTER #152 @ $C7890 - STRING #152 @ $C805B
+
+#W16($C7890)
+//ロックファイタ－<end>
+
+
+//POINTER #153 @ $C7892 - STRING #153 @ $C806D
+
+#W16($C7892)
+//マグネクロ－<end>
+
+
+//POINTER #154 @ $C7894 - STRING #154 @ $C8074
+
+#W16($C7894)
+//アトミックバ－ナ－<end>
+
+
+//POINTER #155 @ $C7896 - STRING #155 @ $C80B2
+
+#W16($C7896)
+//バトルガレッガ－<end>
+
+
+//POINTER #156 @ $C7898 - STRING #156 @ $C80BB
+
+#W16($C7898)
+//超電磁クレ－ン<end>
+
+
+//POINTER #157 @ $C789A - STRING #157 @ $C80C6
+
+#W16($C789A)
+//スプリングクラッシャ－<end>
+
+
+//POINTER #158 @ $C789C - STRING #158 @ $C7EBB
+
+#W16($C789C)
+//ミサイル<end>
+
+
+//POINTER #159 @ $C789E - STRING #159 @ $C80D2
+
+#W16($C789E)
+//超電磁ヨ－ヨ－<end>
+
+
+//POINTER #160 @ $C78A0 - STRING #160 @ $C80DD
+
+#W16($C78A0)
+//ツインランサ－<end>
+
+
+//POINTER #161 @ $C78A2 - STRING #161 @ $C80E5
+
+#W16($C78A2)
+//Vレ－ザ－<end>
+
+
+//POINTER #162 @ $C78A4 - STRING #162 @ $C80EB
+
+#W16($C78A4)
+//バトルチェ－ンソ－<end>
+
+
+//POINTER #163 @ $C78A6 - STRING #163 @ $C80F5
+
+#W16($C78A6)
+//ビッグブラスト<end>
+
+
+//POINTER #164 @ $C78A8 - STRING #164 @ $C80FD
+
+#W16($C78A8)
+//ビッグブラスト・ディバイダ－<end>
+
+
+//POINTER #165 @ $C78AA - STRING #165 @ $C810C
+
+#W16($C78AA)
+//超電磁スパ－ク<end>
+
+
+//POINTER #166 @ $C78AC - STRING #166 @ $C8117
+
+#W16($C78AC)
+//超電磁スピン<end>
+
+
+//POINTER #167 @ $C78AE - STRING #167 @ $C8121
+
+#W16($C78AE)
+//ゴッドブレイカ－<end>
+
+
+//POINTER #168 @ $C78B0 - STRING #168 @ $C812A
+
+#W16($C78B0)
+//ゴッドミサイル<end>
+
+
+//POINTER #169 @ $C78B2 - STRING #169 @ $C8132
+
+#W16($C78B2)
+//ゴッドブ－メラン<P><end>
+
+
+//POINTER #170 @ $C78B4 - STRING #170 @ $C813C
+
+#W16($C78B4)
+//ゴッドサンダ－<end>
+
+
+//POINTER #171 @ $C78B6 - STRING #171 @ $C8144
+
+#W16($C78B6)
+//ゴッドアロ－<end>
+
+
+//POINTER #172 @ $C78B8 - STRING #172 @ $C814B
+
+#W16($C78B8)
+//ゴッドゴ－ガン<end>
+
+
+//POINTER #173 @ $C78BA - STRING #173 @ $C8153
+
+#W16($C78BA)
+//ゴッドプレッシャ－<end>
+
+
+//POINTER #174 @ $C78BC - STRING #174 @ $C815D
+
+#W16($C78BC)
+//ゴ－ガンソ－ド<end>
+
+
+//POINTER #175 @ $C78BE - STRING #175 @ $C8165
+
+#W16($C78BE)
+//エネルギ－カッタ－<end>
+
+
+//POINTER #176 @ $C78C0 - STRING #176 @ $C816F
+
+#W16($C78C0)
+//ゴッドアルファ<P><end>
+
+
+//POINTER #177 @ $C78C2 - STRING #177 @ $C8178
+
+#W16($C78C2)
+//ゴッドバ－ド<end>
+
+
+//POINTER #178 @ $C78C4 - STRING #178 @ $C817F
+
+#W16($C78C4)
+//ゴッドボイス<end>
+
+
+//POINTER #179 @ $C78C6 - STRING #179 @ $C8186
+
+#W16($C78C6)
+//20ミリバルカン<end>
+
+
+//POINTER #180 @ $C78C8 - STRING #180 @ $C818F
+
+#W16($C78C8)
+//フットカッタ－<end>
+
+
+//POINTER #181 @ $C78CA - STRING #181 @ $C809C
+
+#W16($C78CA)
+//爆雷<end>
+
+
+//POINTER #182 @ $C78CC - STRING #182 @ $C8197
+
+#W16($C78CC)
+//真空回し蹴り<end>
+
+
+//POINTER #183 @ $C78CE - STRING #183 @ $C81A2
+
+#W16($C78CE)
+//スネ－クロック<P><end>
+
+
+//POINTER #184 @ $C78D0 - STRING #184 @ $C81AB
+
+#W16($C78D0)
+//ファイブシュ－タ－<P><end>
+
+
+//POINTER #185 @ $C78D2 - STRING #185 @ $C81B6
+
+#W16($C78D2)
+//クロスブ－メラン<P><end>
+
+
+//POINTER #186 @ $C78D4 - STRING #186 @ $C81C0
+
+#W16($C78D4)
+//ダイモガン<end>
+
+
+//POINTER #187 @ $C78D6 - STRING #187 @ $C81C6
+
+#W16($C78D6)
+//ダイモシャフト<end>
+
+
+//POINTER #188 @ $C78D8 - STRING #188 @ $C81CE
+
+#W16($C78D8)
+//ドリルアンカ－<end>
+
+
+//POINTER #189 @ $C78DA - STRING #189 @ $C81D6
+
+#W16($C78DA)
+//三竜棍<end>
+
+
+//POINTER #190 @ $C78DC - STRING #190 @ $C81DD
+
+#W16($C78DC)
+//双竜剣<end>
+
+
+//POINTER #191 @ $C78DE - STRING #191 @ $C81E4
+
+#W16($C78DE)
+//必殺烈風正拳突き<end>
+
+
+//POINTER #192 @ $C78E0 - STRING #192 @ $C8206
+
+#W16($C78E0)
+//ダイタ－ンザンバ－<end>
+
+
+//POINTER #193 @ $C78E2 - STRING #193 @ $C8210
+
+#W16($C78E2)
+//ダイタ－ンハンマ－<end>
+
+
+//POINTER #194 @ $C78E4 - STRING #194 @ $C821A
+
+#W16($C78E4)
+//ダイタ－ンウェッブ<P><end>
+
+
+//POINTER #195 @ $C78E6 - STRING #195 @ $C8225
+
+#W16($C78E6)
+//ビッグウェッブ<end>
+
+
+//POINTER #196 @ $C78E8 - STRING #196 @ $C822D
+
+#W16($C78E8)
+//ダイタ－ンミサイル<end>
+
+
+//POINTER #197 @ $C78EA - STRING #197 @ $C8237
+
+#W16($C78EA)
+//ダイタ－ンキャノン<end>
+
+
+//POINTER #198 @ $C78EC - STRING #198 @ $C8241
+
+#W16($C78EC)
+//サンレ－ザ－<end>
+
+
+//POINTER #199 @ $C78EE - STRING #199 @ $C8248
+
+#W16($C78EE)
+//サンアタック<end>
+
+
+//POINTER #200 @ $C78F0 - STRING #200 @ $C824F
+
+#W16($C78F0)
+//ロケット砲<end>
+
+
+//POINTER #201 @ $C78F2 - STRING #201 @ $C8256
+
+#W16($C78F2)
+//ダイタ－ンミサイル<end>
+
+
+//POINTER #202 @ $C78F4 - STRING #202 @ $C8260
+
+#W16($C78F4)
+//爆弾<end>
+
+
+//POINTER #203 @ $C78F6 - STRING #203 @ $C8265
+
+#W16($C78F6)
+//バ－ドガン<end>
+
+
+//POINTER #204 @ $C78F8 - STRING #204 @ $C826B
+
+#W16($C78F8)
+//大型ミサイル<end>
+
+
+//POINTER #205 @ $C78FA - STRING #205 @ $C8274
+
+#W16($C78FA)
+//トレンブルホ－ン<end>
+
+
+//POINTER #206 @ $C78FC - STRING #206 @ $C827D
+
+#W16($C78FC)
+//ザンボマグナム<end>
+
+
+//POINTER #207 @ $C78FE - STRING #207 @ $C8285
+
+#W16($C78FE)
+//ザンボライフル<end>
+
+
+//POINTER #208 @ $C7900 - STRING #208 @ $C828D
+
+#W16($C7900)
+//クラッシャ－ドリル<end>
+
+
+//POINTER #209 @ $C7902 - STRING #209 @ $C8297
+
+#W16($C7902)
+//ア－ムパンチ<P><end>
+
+
+//POINTER #210 @ $C7904 - STRING #210 @ $C829F
+
+#W16($C7904)
+//ビッグキャノン<end>
+
+
+//POINTER #211 @ $C7906 - STRING #211 @ $C82A7
+
+#W16($C7906)
+//ブルミサイル<end>
+
+
+//POINTER #212 @ $C7908 - STRING #212 @ $C82AE
+
+#W16($C7908)
+//ビッグミサイル<end>
+
+
+//POINTER #213 @ $C790A - STRING #213 @ $C82B6
+
+#W16($C790A)
+//ベ－スレ－ザ－<end>
+
+
+//POINTER #214 @ $C790C - STRING #214 @ $C82BE
+
+#W16($C790C)
+//熱線砲<end>
+
+
+//POINTER #215 @ $C790E - STRING #215 @ $C82C5
+
+#W16($C790E)
+//ベ－スミサイル<end>
+
+
+//POINTER #216 @ $C7910 - STRING #216 @ $C82CD
+
+#W16($C7910)
+//ザンボットグラップ<end>
+
+
+//POINTER #217 @ $C7912 - STRING #217 @ $C82D7
+
+#W16($C7912)
+//ザンボットブロ－<end>
+
+
+//POINTER #218 @ $C7914 - STRING #218 @ $C82E0
+
+#W16($C7914)
+//ザンボットバスタ－<P><end>
+
+
+//POINTER #219 @ $C7916 - STRING #219 @ $C82EB
+
+#W16($C7916)
+//ザンボットカッタ－<end>
+
+
+//POINTER #220 @ $C7918 - STRING #220 @ $C82F5
+
+#W16($C7918)
+//バスタ－ミサイル<end>
+
+
+//POINTER #221 @ $C791A - STRING #221 @ $C82FE
+
+#W16($C791A)
+//ム－ンアタック<end>
+
+
+//POINTER #222 @ $C791C - STRING #222 @ $C8306
+
+#W16($C791C)
+//イオン砲<end>
+
+
+//POINTER #223 @ $C791E - STRING #223 @ $C830C
+
+#W16($C791E)
+//ワイヤ－クロ－<end>
+
+
+//POINTER #224 @ $C7920 - STRING #224 @ $C830C
+
+#W16($C7920)
+//ワイヤ－クロ－<end>
+
+
+//POINTER #225 @ $C7922 - STRING #225 @ $C8314
+
+#W16($C7922)
+//ドライシュトラ－ル<end>
+
+
+//POINTER #226 @ $C7924 - STRING #226 @ $C831E
+
+#W16($C7924)
+//エレメンタルフュ－ジョン<end>
+
+
+//POINTER #227 @ $C7926 - STRING #227 @ $C830C
+
+#W16($C7926)
+//ワイヤ－クロ－<end>
+
+
+//POINTER #228 @ $C7928 - STRING #228 @ $C832B
+
+#W16($C7928)
+//オ－ラソ－ド<end>
+
+
+//POINTER #229 @ $C792A - STRING #229 @ $C832B
+
+#W16($C792A)
+//オ－ラソ－ド<end>
+
+
+//POINTER #230 @ $C792C - STRING #230 @ $C8332
+
+#W16($C792C)
+//ブラスナックル<P><end>
+
+
+//POINTER #231 @ $C792E - STRING #231 @ $C832B
+
+#W16($C792E)
+//オ－ラソ－ド<end>
+
+
+//POINTER #232 @ $C7930 - STRING #232 @ $C8341
+
+#W16($C7930)
+//オ－ラショット<end>
+
+
+//POINTER #233 @ $C7932 - STRING #233 @ $C833B
+
+#W16($C7932)
+//イビルアイ<end>
+
+
+//POINTER #234 @ $C7934 - STRING #234 @ $C8341
+
+#W16($C7934)
+//オ－ラショット<end>
+
+
+//POINTER #235 @ $C7936 - STRING #235 @ $C7EBB
+
+#W16($C7936)
+//ミサイル<end>
+
+
+//POINTER #236 @ $C7938 - STRING #236 @ $C8349
+
+#W16($C7938)
+//オ－ラ斬り<end>
+
+
+//POINTER #237 @ $C793A - STRING #237 @ $C8350
+
+#W16($C793A)
+//ハイパ－オ－ラ斬り<end>
+
+
+//POINTER #238 @ $C793C - STRING #238 @ $C8364
+
+#W16($C793C)
+//オ－ラキャノン<end>
+
+
+//POINTER #239 @ $C793E - STRING #239 @ $C835B
+
+#W16($C793E)
+//散弾バズ－カ<end>
+
+
+//POINTER #240 @ $C7940 - STRING #240 @ $C7EBB
+
+#W16($C7940)
+//ミサイル<end>
+
+
+//POINTER #241 @ $C7942 - STRING #241 @ $C8364
+
+#W16($C7942)
+//オ－ラキャノン<end>
+
+
+//POINTER #242 @ $C7944 - STRING #242 @ $C8364
+
+#W16($C7944)
+//オ－ラキャノン<end>
+
+
+//POINTER #243 @ $C7946 - STRING #243 @ $C836C
+
+#W16($C7946)
+//オ－ラビ－ムソ－ド<end>
+
+
+//POINTER #244 @ $C7948 - STRING #244 @ $C8376
+
+#W16($C7948)
+//オ－ラソ－ドライフル<end>
+
+
+//POINTER #245 @ $C794A - STRING #245 @ $C8381
+
+#W16($C794A)
+//コスモビ－ム<B><end>
+
+
+//POINTER #246 @ $C794C - STRING #246 @ $C8389
+
+#W16($C794C)
+//ネオ・プラズマカッタ－<end>
+
+
+//POINTER #247 @ $C794E - STRING #247 @ $C8395
+
+#W16($C794E)
+//レッドインパルサ－<end>
+
+
+//POINTER #248 @ $C7950 - STRING #248 @ $C839F
+
+#W16($C7950)
+//ホルスタ－ビ－ム<B><end>
+
+
+//POINTER #249 @ $C7952 - STRING #249 @ $C83A9
+
+#W16($C7952)
+//メガビ－ムライフル<B><end>
+
+
+//POINTER #250 @ $C7954 - STRING #250 @ $C83B4
+
+#W16($C7954)
+//スラッシュリッパ－<end>
+
+
+//POINTER #251 @ $C7956 - STRING #251 @ $C83BE
+
+#W16($C7956)
+//ゴ－サ－ベル<end>
+
+
+//POINTER #252 @ $C7958 - STRING #252 @ $C83C5
+
+#W16($C7958)
+//ゴ－スティック<P><end>
+
+
+//POINTER #253 @ $C795A - STRING #253 @ $C83CE
+
+#W16($C795A)
+//スペ－スバズ－カ<end>
+
+
+//POINTER #254 @ $C795C - STRING #254 @ $C83D7
+
+#W16($C795C)
+//ゴ－フラッシャ－<end>
+
+
+//POINTER #255 @ $C795E - STRING #255 @ $C7C80
+
+#W16($C795E)
+//<end>
+
+
+//POINTER #256 @ $C7960 - STRING #256 @ $C7C80
+
+#W16($C7960)
+//<end>
+
+
+//POINTER #257 @ $C7962 - STRING #257 @ $C83E0
+
+#W16($C7962)
+//パルスレ－ザ－<end>
+
+
+//POINTER #258 @ $C7964 - STRING #258 @ $C83E8
+
+#W16($C7964)
+//ビ－ムランチャ－<B><end>
+
+
+//POINTER #259 @ $C7966 - STRING #259 @ $C83F2
+
+#W16($C7966)
+//連装キャノン砲<end>
+
+
+//POINTER #260 @ $C7968 - STRING #260 @ $C83FD
+
+#W16($C7968)
+//断空砲<end>
+
+
+//POINTER #261 @ $C796A - STRING #261 @ $C8404
+
+#W16($C796A)
+//断空剣<end>
+
+
+//POINTER #262 @ $C796C - STRING #262 @ $C840B
+
+#W16($C796C)
+//27ミリ機関砲<end>
+
+
+//POINTER #263 @ $C796E - STRING #263 @ $C8416
+
+#W16($C796E)
+//4連ミサイル<end>
+
+
+//POINTER #264 @ $C7970 - STRING #264 @ $C841E
+
+#W16($C7970)
+//突撃<end>
+
+
+//POINTER #265 @ $C7972 - STRING #265 @ $C8423
+
+#W16($C7972)
+//キャノン砲<end>
+
+
+//POINTER #266 @ $C7974 - STRING #266 @ $C842A
+
+#W16($C7974)
+//高収束ビ－ム速射砲<B><end>
+
+
+//POINTER #267 @ $C7976 - STRING #267 @ $C843B
+
+#W16($C7976)
+//5連ミサイルランチャ－<end>
+
+
+//POINTER #268 @ $C7978 - STRING #268 @ $C8448
+
+#W16($C7978)
+//かみつき<end>
+
+
+//POINTER #269 @ $C797A - STRING #269 @ $C844D
+
+#W16($C797A)
+//105ミリライフル砲<end>
+
+
+//POINTER #270 @ $C797C - STRING #270 @ $C8448
+
+#W16($C797C)
+//かみつき<end>
+
+
+//POINTER #271 @ $C797E - STRING #271 @ $C8459
+
+#W16($C797E)
+//200ミリ榴弾砲<end>
+
+
+//POINTER #272 @ $C7980 - STRING #272 @ $C8465
+
+#W16($C7980)
+//4連大口径砲<end>
+
+
+//POINTER #273 @ $C7982 - STRING #273 @ $C8471
+
+#W16($C7982)
+//4連対空パルスレ－ザ－<end>
+
+
+//POINTER #274 @ $C7984 - STRING #274 @ $C8480
+
+#W16($C7984)
+//ロケットランチャ－<end>
+
+
+//POINTER #275 @ $C7986 - STRING #275 @ $C848A
+
+#W16($C7986)
+//牙<end>
+
+
+//POINTER #276 @ $C7988 - STRING #276 @ $C848D
+
+#W16($C7988)
+//ギガソ－トカノン<end>
+
+
+//POINTER #277 @ $C798A - STRING #277 @ $C8496
+
+#W16($C798A)
+//ビ－ムキャノン<end>
+
+
+//POINTER #278 @ $C798C - STRING #278 @ $C849E
+
+#W16($C798C)
+//メガビ－ムキャノン<end>
+
+
+//POINTER #279 @ $C798E - STRING #279 @ $C84A8
+
+#W16($C798E)
+//リニアレ－ルガン<end>
+
+
+//POINTER #280 @ $C7990 - STRING #280 @ $C84C2
+
+#W16($C7990)
+//ディスカッタ－<end>
+
+
+//POINTER #281 @ $C7992 - STRING #281 @ $C84CA
+
+#W16($C7992)
+//カロリックミサイル<end>
+
+
+//POINTER #282 @ $C7994 - STRING #282 @ $C84D4
+
+#W16($C7994)
+//サイフラッシュ<map1><map2><P><end>
+
+
+//POINTER #283 @ $C7996 - STRING #283 @ $C84DF
+
+#W16($C7996)
+//ハイファミリア<end>
+
+
+//POINTER #284 @ $C7998 - STRING #284 @ $C84E7
+
+#W16($C7998)
+//アカシックバスタ－<end>
+
+
+//POINTER #285 @ $C799A - STRING #285 @ $C84F1
+
+#W16($C799A)
+//コスモノヴァ<end>
+
+
+//POINTER #286 @ $C799C - STRING #286 @ $C84F8
+
+#W16($C799C)
+//グランワ－ムソ－ド<end>
+
+
+//POINTER #287 @ $C799E - STRING #287 @ $C8502
+
+#W16($C799E)
+//グラビトロンカノン<map1><map2><end>
+
+
+//POINTER #288 @ $C79A0 - STRING #288 @ $C850E
+
+#W16($C79A0)
+//ワ－ムスマッシャ－<end>
+
+
+//POINTER #289 @ $C79A2 - STRING #289 @ $C8518
+
+#W16($C79A2)
+//ブラックホ－ルクラスタ－<end>
+
+
+//POINTER #290 @ $C79A4 - STRING #290 @ $C8525
+
+#W16($C79A4)
+//縮退砲<end>
+
+
+//POINTER #291 @ $C79A6 - STRING #291 @ $C852C
+
+#W16($C79A6)
+//ディバインア－ム<end>
+
+
+//POINTER #292 @ $C79A8 - STRING #292 @ $C8535
+
+#W16($C79A8)
+//サイコブラスタ－<map1><map2><P><end>
+
+
+//POINTER #293 @ $C79AA - STRING #293 @ $C8541
+
+#W16($C79AA)
+//クロスソ－サ－<end>
+
+
+//POINTER #294 @ $C79AC - STRING #294 @ $C8549
+
+#W16($C79AC)
+//ハイパ－ビ－ムキャノン<B><end>
+
+
+//POINTER #295 @ $C79AE - STRING #295 @ $C8556
+
+#W16($C79AE)
+//クロスマッシャ－<end>
+
+
+//POINTER #296 @ $C79B0 - STRING #296 @ $C855F
+
+#W16($C79B0)
+//超振動拳<end>
+
+
+//POINTER #297 @ $C79B2 - STRING #297 @ $C8568
+
+#W16($C79B2)
+//リニアレ－ルガン<end>
+
+
+//POINTER #298 @ $C79B4 - STRING #298 @ $C8571
+
+#W16($C79B4)
+//対空ミサイル<end>
+
+
+//POINTER #299 @ $C79B6 - STRING #299 @ $C84DF
+
+#W16($C79B6)
+//ハイファミリア<end>
+
+
+//POINTER #300 @ $C79B8 - STRING #300 @ $C857A
+
+#W16($C79B8)
+//レゾナンスクエイク<map1><map2><end>
+
+
+//POINTER #301 @ $C79BA - STRING #301 @ $C8586
+
+#W16($C79BA)
+//フレイムカッタ－<end>
+
+
+//POINTER #302 @ $C79BC - STRING #302 @ $C858F
+
+#W16($C79BC)
+//パルスレ－ザ－<end>
+
+
+//POINTER #303 @ $C79BE - STRING #303 @ $C8597
+
+#W16($C79BE)
+//中性子レ－ザ－<end>
+
+
+//POINTER #304 @ $C79C0 - STRING #304 @ $C85A2
+
+#W16($C79C0)
+//カロリックスマッシュ<end>
+
+
+//POINTER #305 @ $C79C2 - STRING #305 @ $C84DF
+
+#W16($C79C2)
+//ハイファミリア<end>
+
+
+//POINTER #306 @ $C79C4 - STRING #306 @ $C85AD
+
+#W16($C79C4)
+//メギドフレイム<map1><map2><P><end>
+
+
+//POINTER #307 @ $C79C6 - STRING #307 @ $C85B8
+
+#W16($C79C6)
+//グングニ－ル<end>
+
+
+//POINTER #308 @ $C79C8 - STRING #308 @ $C84DF
+
+#W16($C79C8)
+//ハイファミリア<end>
+
+
+//POINTER #309 @ $C79CA - STRING #309 @ $C85BF
+
+#W16($C79CA)
+//ハイドロプレッシャ－<end>
+
+
+//POINTER #310 @ $C79CC - STRING #310 @ $C85CA
+
+#W16($C79CC)
+//ケルヴィンブリザ－ド<map1><map2><end>
+
+
+//POINTER #311 @ $C79CE - STRING #311 @ $C85D7
+
+#W16($C79CE)
+//プラズマカッタ－<end>
+
+
+//POINTER #312 @ $C79D0 - STRING #312 @ $C85E0
+
+#W16($C79D0)
+//スプリットミサイル<end>
+
+
+//POINTER #313 @ $C79D2 - STRING #313 @ $C85EA
+
+#W16($C79D2)
+//ニュ－トロンビ－ム<end>
+
+
+//POINTER #314 @ $C79D4 - STRING #314 @ $C8518
+
+#W16($C79D4)
+//ブラックホ－ルクラスタ－<end>
+
+
+//POINTER #315 @ $C79D6 - STRING #315 @ $C7F74
+
+#W16($C79D6)
+//反重力スト－ム<end>
+
+
+//POINTER #316 @ $C79D8 - STRING #316 @ $C85F4
+
+#W16($C79D8)
+//ヒ－トホ－ク<end>
+
+
+//POINTER #317 @ $C79DA - STRING #317 @ $C85FB
+
+#W16($C79DA)
+//ザクバズ－カ<end>
+
+
+//POINTER #318 @ $C79DC - STRING #318 @ $C8602
+
+#W16($C79DC)
+//120<m><m>マシンガン<end>
+
+
+//POINTER #319 @ $C79DE - STRING #319 @ $C860D
+
+#W16($C79DE)
+//ハンドグレネイド<P><end>
+
+
+//POINTER #320 @ $C79E0 - STRING #320 @ $C8617
+
+#W16($C79E0)
+//シュツルムファウスト<end>
+
+
+//POINTER #321 @ $C79E2 - STRING #321 @ $C8622
+
+#W16($C79E2)
+//ヒ－トサ－ベル<end>
+
+
+//POINTER #322 @ $C79E4 - STRING #322 @ $C862A
+
+#W16($C79E4)
+//拡散ビ－ム砲<B><end>
+
+
+//POINTER #323 @ $C79E6 - STRING #323 @ $C8635
+
+#W16($C79E6)
+//ジャイアントバズ<end>
+
+
+//POINTER #324 @ $C79E8 - STRING #324 @ $C8617
+
+#W16($C79E8)
+//シュツルムファウスト<end>
+
+
+//POINTER #325 @ $C79EA - STRING #325 @ $C863E
+
+#W16($C79EA)
+//メガ粒子砲<B><end>
+
+
+//POINTER #326 @ $C79EC - STRING #326 @ $C863E
+
+#W16($C79EC)
+//メガ粒子砲<B><end>
+
+
+//POINTER #327 @ $C79EE - STRING #327 @ $C863E
+
+#W16($C79EE)
+//メガ粒子砲<B><end>
+
+
+//POINTER #328 @ $C79F0 - STRING #328 @ $C863E
+
+#W16($C79F0)
+//メガ粒子砲<B><end>
+
+
+//POINTER #329 @ $C79F2 - STRING #329 @ $C863E
+
+#W16($C79F2)
+//メガ粒子砲<B><end>
+
+
+//POINTER #330 @ $C79F4 - STRING #330 @ $C8648
+
+#W16($C79F4)
+//ビット<end>
+
+
+//POINTER #331 @ $C79F6 - STRING #331 @ $C864C
+
+#W16($C79F6)
+//海ヘビ<end>
+
+
+//POINTER #332 @ $C79F8 - STRING #332 @ $C8651
+
+#W16($C79F8)
+//大型ビ－ムライフル<B><end>
+
+
+//POINTER #333 @ $C79FA - STRING #333 @ $C84B1
+
+#W16($C79FA)
+//ビ－ム砲<B><end>
+
+
+//POINTER #334 @ $C79FC - STRING #334 @ $C84B8
+
+#W16($C79FC)
+//ゴッドネロスパンチ<end>
+
+
+//POINTER #335 @ $C79FE - STRING #335 @ $C7EBB
+
+#W16($C79FE)
+//ミサイル<end>
+
+
+//POINTER #336 @ $C7A00 - STRING #336 @ $C865E
+
+#W16($C7A00)
+//小型メガビ－ム砲<B><end>
+
+
+//POINTER #337 @ $C7A02 - STRING #337 @ $C866B
+
+#W16($C7A02)
+//拡散メガ粒子砲<B><end>
+
+
+//POINTER #338 @ $C7A04 - STRING #338 @ $C866B
+
+#W16($C7A04)
+//拡散メガ粒子砲<B><end>
+
+
+//POINTER #339 @ $C7A06 - STRING #339 @ $C7EBB
+
+#W16($C7A06)
+//ミサイル<end>
+
+
+//POINTER #340 @ $C7A08 - STRING #340 @ $C7E8B
+
+#W16($C7A08)
+//光子力ビ－ム<B><end>
+
+
+//POINTER #341 @ $C7A0A - STRING #341 @ $C8679
+
+#W16($C7A0A)
+//フェダ－インライフル<B><end>
+
+
+//POINTER #342 @ $C7A0C - STRING #342 @ $C8685
+
+#W16($C7A0C)
+//クロ－ア－ム<end>
+
+
+//POINTER #343 @ $C7A0E - STRING #343 @ $C868C
+
+#W16($C7A0E)
+//レフレクタ－ビット<end>
+
+
+//POINTER #344 @ $C7A10 - STRING #344 @ $C8696
+
+#W16($C7A10)
+//サイコミュ式ビ－ムソ－ド<end>
+
+
+//POINTER #345 @ $C7A12 - STRING #345 @ $C86A4
+
+#W16($C7A12)
+//クレイバズ－カ<end>
+
+
+//POINTER #346 @ $C7A14 - STRING #346 @ $C86AC
+
+#W16($C7A14)
+//メガバズ－カランチャ－<map1><map2><B><end>
+
+
+//POINTER #347 @ $C7A16 - STRING #347 @ $C86BB
+
+#W16($C7A16)
+//ア－ムビ－ムガン<B><end>
+
+
+//POINTER #348 @ $C7A18 - STRING #348 @ $C86C5
+
+#W16($C7A18)
+//修理装置<end>
+
+
+//POINTER #349 @ $C7A1A - STRING #349 @ $C86CE
+
+#W16($C7A1A)
+//ショットガン<end>
+
+
+//POINTER #350 @ $C7A1C - STRING #350 @ $C8635
+
+#W16($C7A1C)
+//ジャイアントバズ<end>
+
+
+//POINTER #351 @ $C7A1E - STRING #351 @ $C86D5
+
+#W16($C7A1E)
+//60ミリ機関砲<end>
+
+
+//POINTER #352 @ $C7A20 - STRING #352 @ $C86E0
+
+#W16($C7A20)
+//パンツァ－ファウスト<P><end>
+
+
+//POINTER #353 @ $C7A22 - STRING #353 @ $C86EC
+
+#W16($C7A22)
+//110ミリバルカン<end>
+
+
+//POINTER #354 @ $C7A24 - STRING #354 @ $C86F6
+
+#W16($C7A24)
+//ミサイルポッド<end>
+
+
+//POINTER #355 @ $C7A26 - STRING #355 @ $C86FE
+
+#W16($C7A26)
+//大型メガ粒子砲<B><end>
+
+
+//POINTER #356 @ $C7A28 - STRING #356 @ $C870C
+
+#W16($C7A28)
+//プラズマリ－ダ－<map1><map2><end>
+
+
+//POINTER #357 @ $C7A2A - STRING #357 @ $C8717
+
+#W16($C7A2A)
+//サイコミュ式メガ粒子砲<end>
+
+
+//POINTER #358 @ $C7A2C - STRING #358 @ $C8727
+
+#W16($C7A2C)
+//110ミリ機関砲<end>
+
+
+//POINTER #359 @ $C7A2E - STRING #359 @ $C8733
+
+#W16($C7A2E)
+//偏向メガ粒子砲<B><end>
+
+
+//POINTER #360 @ $C7A30 - STRING #360 @ $C8741
+
+#W16($C7A30)
+//有線クロ－ア－ム<end>
+
+
+//POINTER #361 @ $C7A32 - STRING #361 @ $C874C
+
+#W16($C7A32)
+//大型ミサイルランチャ－<end>
+
+
+//POINTER #362 @ $C7A34 - STRING #362 @ $C875A
+
+#W16($C7A34)
+//小型ミサイルランチャ－<end>
+
+
+//POINTER #363 @ $C7A36 - STRING #363 @ $C8768
+
+#W16($C7A36)
+//メガカノン砲<B><end>
+
+
+//POINTER #364 @ $C7A38 - STRING #364 @ $C8771
+
+#W16($C7A38)
+//ファンネル<end>
+
+
+//POINTER #365 @ $C7A3A - STRING #365 @ $C8771
+
+#W16($C7A3A)
+//ファンネル<end>
+
+
+//POINTER #366 @ $C7A3C - STRING #366 @ $C8771
+
+#W16($C7A3C)
+//ファンネル<end>
+
+
+//POINTER #367 @ $C7A3E - STRING #367 @ $C8771
+
+#W16($C7A3E)
+//ファンネル<end>
+
+
+//POINTER #368 @ $C7A40 - STRING #368 @ $C86F6
+
+#W16($C7A40)
+//ミサイルポッド<end>
+
+
+//POINTER #369 @ $C7A42 - STRING #369 @ $C8777
+
+#W16($C7A42)
+//フィンガ－ランチャ－<end>
+
+
+//POINTER #370 @ $C7A44 - STRING #370 @ $C8782
+
+#W16($C7A44)
+//エネルギ－ガン<B><end>
+
+
+//POINTER #371 @ $C7A46 - STRING #371 @ $C86F6
+
+#W16($C7A46)
+//ミサイルポッド<end>
+
+
+//POINTER #372 @ $C7A48 - STRING #372 @ $C878B
+
+#W16($C7A48)
+//有線式ビ－ム砲<end>
+
+
+//POINTER #373 @ $C7A4A - STRING #373 @ $C86F6
+
+#W16($C7A4A)
+//ミサイルポッド<end>
+
+
+//POINTER #374 @ $C7A4C - STRING #374 @ $C8797
+
+#W16($C7A4C)
+//ビ－ムトマホ－ク<end>
+
+
+//POINTER #375 @ $C7A4E - STRING #375 @ $C87A0
+
+#W16($C7A4E)
+//ハンドガン<end>
+
+
+//POINTER #376 @ $C7A50 - STRING #376 @ $C87A6
+
+#W16($C7A50)
+//トライブレ－ド<P><end>
+
+
+//POINTER #377 @ $C7A52 - STRING #377 @ $C87AF
+
+#W16($C7A52)
+//ビ－ムキャノン<B><end>
+
+
+//POINTER #378 @ $C7A54 - STRING #378 @ $C87B8
+
+#W16($C7A54)
+//ビ－ムカノン<B><end>
+
+
+//POINTER #379 @ $C7A56 - STRING #379 @ $C87C0
+
+#W16($C7A56)
+//対艦ミサイル<end>
+
+
+//POINTER #380 @ $C7A58 - STRING #380 @ $C87C9
+
+#W16($C7A58)
+//インコム<end>
+
+
+//POINTER #381 @ $C7A5A - STRING #381 @ $C87CE
+
+#W16($C7A5A)
+//メガランチャ－<B><end>
+
+
+//POINTER #382 @ $C7A5C - STRING #382 @ $C87D7
+
+#W16($C7A5C)
+//メガビ－ムカノン<B><end>
+
+
+//POINTER #383 @ $C7A5E - STRING #383 @ $C87E1
+
+#W16($C7A5E)
+//ハイパ－メガ粒子砲<B><end>
+
+
+//POINTER #384 @ $C7A60 - STRING #384 @ $C87FF
+
+#W16($C7A60)
+//ビ－ムソ－ドアックス<end>
+
+
+//POINTER #385 @ $C7A62 - STRING #385 @ $C880A
+
+#W16($C7A62)
+//ビ－ムマシンガン<B><end>
+
+
+//POINTER #386 @ $C7A64 - STRING #386 @ $C8814
+
+#W16($C7A64)
+//シュツルムファウスト<end>
+
+
+//POINTER #387 @ $C7A66 - STRING #387 @ $C881F
+
+#W16($C7A66)
+//メガガトリングガン<end>
+
+
+//POINTER #388 @ $C7A68 - STRING #388 @ $C8829
+
+#W16($C7A68)
+//ビ－ムアサルトライフル<B><end>
+
+
+//POINTER #389 @ $C7A6A - STRING #389 @ $C8836
+
+#W16($C7A6A)
+//ビ－ムトマホ－ク<end>
+
+
+//POINTER #390 @ $C7A6C - STRING #390 @ $C883F
+
+#W16($C7A6C)
+//ビ－ムショットライフル<B><end>
+
+
+//POINTER #391 @ $C7A6E - STRING #391 @ $C884C
+
+#W16($C7A6E)
+//有線式メガア－ム砲<end>
+
+
+//POINTER #392 @ $C7A70 - STRING #392 @ $C885A
+
+#W16($C7A70)
+//ショットランサ－<end>
+
+
+//POINTER #393 @ $C7A72 - STRING #393 @ $C8863
+
+#W16($C7A72)
+//テンタクラ－ロッド<end>
+
+
+//POINTER #394 @ $C7A74 - STRING #394 @ $C886D
+
+#W16($C7A74)
+//メガビ－ムキャノン<B><end>
+
+
+//POINTER #395 @ $C7A76 - STRING #395 @ $C8878
+
+#W16($C7A76)
+//バグ<end>
+
+
+//POINTER #396 @ $C7A78 - STRING #396 @ $C887B
+
+#W16($C7A78)
+//クロ－<end>
+
+
+//POINTER #397 @ $C7A7A - STRING #397 @ $C887F
+
+#W16($C7A7A)
+//ミニミサイル<end>
+
+
+//POINTER #398 @ $C7A7C - STRING #398 @ $C8886
+
+#W16($C7A7C)
+//マグマ弾<end>
+
+
+//POINTER #399 @ $C7A7E - STRING #399 @ $C888C
+
+#W16($C7A7E)
+//体当たり<end>
+
+
+//POINTER #400 @ $C7A80 - STRING #400 @ $C8893
+
+#W16($C7A80)
+//ハンドソルド<end>
+
+
+//POINTER #401 @ $C7A82 - STRING #401 @ $C889A
+
+#W16($C7A82)
+//ロケット弾<end>
+
+
+//POINTER #402 @ $C7A84 - STRING #402 @ $C88A1
+
+#W16($C7A84)
+//大砲<end>
+
+
+//POINTER #403 @ $C7A86 - STRING #403 @ $C887B
+
+#W16($C7A86)
+//クロ－<end>
+
+
+//POINTER #404 @ $C7A88 - STRING #404 @ $C88A6
+
+#W16($C7A88)
+//レ－ザ－<end>
+
+
+//POINTER #405 @ $C7A8A - STRING #405 @ $C88AB
+
+#W16($C7A8A)
+//破壞光線<end>
+
+
+//POINTER #406 @ $C7A8C - STRING #406 @ $C88B4
+
+#W16($C7A8C)
+//かま<end>
+
+
+//POINTER #407 @ $C7A8E - STRING #407 @ $C88B7
+
+#W16($C7A8E)
+//ブ－メラン<end>
+
+
+//POINTER #408 @ $C7A90 - STRING #408 @ $C88BD
+
+#W16($C7A90)
+//ムチ<end>
+
+
+//POINTER #409 @ $C7A92 - STRING #409 @ $C88C0
+
+#W16($C7A92)
+//ピストル<end>
+
+
+//POINTER #410 @ $C7A94 - STRING #410 @ $C88C5
+
+#W16($C7A94)
+//ライフル<end>
+
+
+//POINTER #411 @ $C7A96 - STRING #411 @ $C88CA
+
+#W16($C7A96)
+//スピア<end>
+
+
+//POINTER #412 @ $C7A98 - STRING #412 @ $C88CE
+
+#W16($C7A98)
+//ハリケ－ン<end>
+
+
+//POINTER #413 @ $C7A9A - STRING #413 @ $C88D4
+
+#W16($C7A9A)
+//磁力光線<end>
+
+
+//POINTER #414 @ $C7A9C - STRING #414 @ $C88DD
+
+#W16($C7A9C)
+//ショックビ－ム<end>
+
+
+//POINTER #415 @ $C7A9E - STRING #415 @ $C88E5
+
+#W16($C7A9E)
+//うずまき<end>
+
+
+//POINTER #416 @ $C7AA0 - STRING #416 @ $C88EA
+
+#W16($C7AA0)
+//リング光線<end>
+
+
+//POINTER #417 @ $C7AA2 - STRING #417 @ $C88F2
+
+#W16($C7AA2)
+//魚雷<end>
+
+
+//POINTER #418 @ $C7AA4 - STRING #418 @ $C88F7
+
+#W16($C7AA4)
+//ドリル<end>
+
+
+//POINTER #419 @ $C7AA6 - STRING #419 @ $C88FB
+
+#W16($C7AA6)
+//振動波<end>
+
+
+//POINTER #420 @ $C7AA8 - STRING #420 @ $C8902
+
+#W16($C7AA8)
+//くちばし<end>
+
+
+//POINTER #421 @ $C7AAA - STRING #421 @ $C8907
+
+#W16($C7AAA)
+//ベガトロンビ－ム砲<end>
+
+
+//POINTER #422 @ $C7AAC - STRING #422 @ $C8912
+
+#W16($C7AAC)
+//ビ－ムバルカン<B><end>
+
+
+//POINTER #423 @ $C7AAE - STRING #423 @ $C891B
+
+#W16($C7AAE)
+//巨大ベガトロンビ－ム砲<end>
+
+
+//POINTER #424 @ $C7AB0 - STRING #424 @ $C892A
+
+#W16($C7AB0)
+//スピンアタック<end>
+
+
+//POINTER #425 @ $C7AB2 - STRING #425 @ $C88A6
+
+#W16($C7AB2)
+//レ－ザ－<end>
+
+
+//POINTER #426 @ $C7AB4 - STRING #426 @ $C8932
+
+#W16($C7AB4)
+//火炎<end>
+
+
+//POINTER #427 @ $C7AB6 - STRING #427 @ $C8937
+
+#W16($C7AB6)
+//電磁もり<end>
+
+
+//POINTER #428 @ $C7AB8 - STRING #428 @ $C893E
+
+#W16($C7AB8)
+//冷凍光線<end>
+
+
+//POINTER #429 @ $C7ABA - STRING #429 @ $C8947
+
+#W16($C7ABA)
+//大型ミサイル<end>
+
+
+//POINTER #430 @ $C7ABC - STRING #430 @ $C8907
+
+#W16($C7ABC)
+//ベガトロンビ－ム砲<end>
+
+
+//POINTER #431 @ $C7ABE - STRING #431 @ $C8950
+
+#W16($C7ABE)
+//ライトニングアロ－<end>
+
+
+//POINTER #432 @ $C7AC0 - STRING #432 @ $C895A
+
+#W16($C7AC0)
+//アイアンクロ－<end>
+
+
+//POINTER #433 @ $C7AC2 - STRING #433 @ $C895A
+
+#W16($C7AC2)
+//アイアンクロ－<end>
+
+
+//POINTER #434 @ $C7AC4 - STRING #434 @ $C8962
+
+#W16($C7AC4)
+//グラビトンウェ－ブ<end>
+
+
+//POINTER #435 @ $C7AC6 - STRING #435 @ $C896C
+
+#W16($C7AC6)
+//超破壞光線<end>
+
+
+//POINTER #436 @ $C7AC8 - STRING #436 @ $C8977
+
+#W16($C7AC8)
+//メガグラビトンウェ－ブ<end>
+
+
+//POINTER #437 @ $C7ACA - STRING #437 @ $C8983
+
+#W16($C7ACA)
+//触手<end>
+
+
+//POINTER #438 @ $C7ACC - STRING #438 @ $C8988
+
+#W16($C7ACC)
+//超音波<end>
+
+
+//POINTER #439 @ $C7ACE - STRING #439 @ $C898F
+
+#W16($C7ACE)
+//マリンヴォルテックス<end>
+
+
+//POINTER #440 @ $C7AD0 - STRING #440 @ $C852C
+
+#W16($C7AD0)
+//ディバインア－ム<end>
+
+
+//POINTER #441 @ $C7AD2 - STRING #441 @ $C8556
+
+#W16($C7AD2)
+//クロスマッシャ－<end>
+
+
+//POINTER #442 @ $C7AD4 - STRING #442 @ $C899A
+
+#W16($C7AD4)
+//フレイボム<P><end>
+
+
+//POINTER #443 @ $C7AD6 - STRING #443 @ $C899A
+
+#W16($C7AD6)
+//フレイボム<P><end>
+
+
+//POINTER #444 @ $C7AD8 - STRING #444 @ $C899A
+
+#W16($C7AD8)
+//フレイボム<P><end>
+
+
+//POINTER #445 @ $C7ADA - STRING #445 @ $C89A1
+
+#W16($C7ADA)
+//ハンドグレネイド<P><end>
+
+
+//POINTER #446 @ $C7ADC - STRING #446 @ $C89AB
+
+#W16($C7ADC)
+//オ－ラショットア－ム<end>
+
+
+//POINTER #447 @ $C7ADE - STRING #447 @ $C89B6
+
+#W16($C7ADE)
+//<end>
+
+
+//POINTER #448 @ $C7AE0 - STRING #448 @ $C89B7
+
+#W16($C7AE0)
+//オ－ラノバ砲<map1><map2><end>
+
+
+//POINTER #449 @ $C7AE2 - STRING #449 @ $C89C1
+
+#W16($C7AE2)
+//ガンテミサイル<end>
+
+
+//POINTER #450 @ $C7AE4 - STRING #450 @ $C89C9
+
+#W16($C7AE4)
+//セラミックソ－ド<end>
+
+
+//POINTER #451 @ $C7AE6 - STRING #451 @ $C89D2
+
+#W16($C7AE6)
+//ギルソ－ド<end>
+
+
+//POINTER #452 @ $C7AE8 - STRING #452 @ $C89D8
+
+#W16($C7AE8)
+//ギルアロ－<end>
+
+
+//POINTER #453 @ $C7AEA - STRING #453 @ $C89DE
+
+#W16($C7AEA)
+//妖魔サ－ベル<end>
+
+
+//POINTER #454 @ $C7AEC - STRING #454 @ $C8983
+
+#W16($C7AEC)
+//触手<end>
+
+
+//POINTER #455 @ $C7AEE - STRING #455 @ $C89E7
+
+#W16($C7AEE)
+//熱線<end>
+
+
+//POINTER #456 @ $C7AF0 - STRING #456 @ $C89EC
+
+#W16($C7AF0)
+//冷凍ガス<end>
+
+
+//POINTER #457 @ $C7AF2 - STRING #457 @ $C89F3
+
+#W16($C7AF2)
+//かぎづめ<end>
+
+
+//POINTER #458 @ $C7AF4 - STRING #458 @ $C89F8
+
+#W16($C7AF4)
+//シミタ－<end>
+
+
+//POINTER #459 @ $C7AF6 - STRING #459 @ $C89FD
+
+#W16($C7AF6)
+//シ－ルドビ－ム<B><end>
+
+
+//POINTER #460 @ $C7AF8 - STRING #460 @ $C8A06
+
+#W16($C7AF8)
+//ランサ－<end>
+
+
+//POINTER #461 @ $C7AFA - STRING #461 @ $C8A0B
+
+#W16($C7AFA)
+//スペ－スミサイル<end>
+
+
+//POINTER #462 @ $C7AFC - STRING #462 @ $C8A14
+
+#W16($C7AFC)
+//バンドック砲<end>
+
+
+//POINTER #463 @ $C7AFE - STRING #463 @ $C8A1C
+
+#W16($C7AFE)
+//ウイングソ－ド<end>
+
+
+//POINTER #464 @ $C7B00 - STRING #464 @ $C8A24
+
+#W16($C7B00)
+//ビッグボウ<end>
+
+
+//POINTER #465 @ $C7B02 - STRING #465 @ $C8A2A
+
+#W16($C7B02)
+//ホ－ミングミサイル<end>
+
+
+//POINTER #466 @ $C7B04 - STRING #466 @ $C8A34
+
+#W16($C7B04)
+//ビ－ムキャノン<B><end>
+
+
+//POINTER #467 @ $C7B06 - STRING #467 @ $C8A3D
+
+#W16($C7B06)
+//フラッシャ－ビ－ム<B><end>
+
+
+//POINTER #468 @ $C7B08 - STRING #468 @ $C8A48
+
+#W16($C7B08)
+//ラム<end>
+
+
+//POINTER #469 @ $C7B0A - STRING #469 @ $C8A4B
+
+#W16($C7B0A)
+//サ－ベル<end>
+
+
+//POINTER #470 @ $C7B0C - STRING #470 @ $C8A50
+
+#W16($C7B0C)
+//バズ－カ<end>
+
+
+//POINTER #471 @ $C7B0E - STRING #471 @ $C7EBB
+
+#W16($C7B0E)
+//ミサイル<end>
+
+
+//POINTER #472 @ $C7B10 - STRING #472 @ $C8A55
+
+#W16($C7B10)
+//反アイザロン粒子砲<end>
+
+
+//POINTER #473 @ $C7B12 - STRING #473 @ $C8A63
+
+#W16($C7B12)
+//ハイメガ粒子砲<B><end>
+
+
+//POINTER #474 @ $C7B14 - STRING #474 @ $C87EF
+
+#W16($C7B14)
+//ハイパ－メガ粒子砲<map1><map2><B><end>
+
+
+//POINTER #475 @ $C7B16 - STRING #475 @ $C8A6F
+
+#W16($C7B16)
+//セイバ－<end>
+
+
+//POINTER #476 @ $C7B18 - STRING #476 @ $C8A6F
+
+#W16($C7B18)
+//セイバ－<end>
+
+
+//POINTER #477 @ $C7B1A - STRING #477 @ $C8A6F
+
+#W16($C7B1A)
+//セイバ－<end>
+
+
+//POINTER #478 @ $C7B1C - STRING #478 @ $C8A6F
+
+#W16($C7B1C)
+//セイバ－<end>
+
+
+//POINTER #479 @ $C7B1E - STRING #479 @ $C8A74
+
+#W16($C7B1E)
+//ランサ－<end>
+
+
+//POINTER #480 @ $C7B20 - STRING #480 @ $C8A74
+
+#W16($C7B20)
+//ランサ－<end>
+
+
+//POINTER #481 @ $C7B22 - STRING #481 @ $C8A74
+
+#W16($C7B22)
+//ランサ－<end>
+
+
+//POINTER #482 @ $C7B24 - STRING #482 @ $C8A79
+
+#W16($C7B24)
+//Sマイン<P><end>
+
+
+//POINTER #483 @ $C7B26 - STRING #483 @ $C8A79
+
+#W16($C7B26)
+//Sマイン<P><end>
+
+
+//POINTER #484 @ $C7B28 - STRING #484 @ $C8A7F
+
+#W16($C7B28)
+//パワ－ランチャ－<B><end>
+
+
+//POINTER #485 @ $C7B2A - STRING #485 @ $C8A7F
+
+#W16($C7B2A)
+//パワ－ランチャ－<B><end>
+
+
+//POINTER #486 @ $C7B2C - STRING #486 @ $C8A7F
+
+#W16($C7B2C)
+//パワ－ランチャ－<B><end>
+
+
+//POINTER #487 @ $C7B2E - STRING #487 @ $C8A7F
+
+#W16($C7B2E)
+//パワ－ランチャ－<B><end>
+
+
+//POINTER #488 @ $C7B30 - STRING #488 @ $C8A89
+
+#W16($C7B30)
+//バスタ－ランチャ－<map1><map2><B><end>
+
+
+//POINTER #489 @ $C7B32 - STRING #489 @ $C8A89
+
+#W16($C7B32)
+//バスタ－ランチャ－<map1><map2><B><end>
+
+
+//POINTER #490 @ $C7B34 - STRING #490 @ $C8A96
+
+#W16($C7B34)
+//スロウランサ－<P><end>
+
+
+//POINTER #491 @ $C7B36 - STRING #491 @ $C8A9F
+
+#W16($C7B36)
+//サイズ<end>
+
+
+//POINTER #492 @ $C7B38 - STRING #492 @ $C8AA3
+
+#W16($C7B38)
+//ハンドランチャ－<B><end>
+
+
+//POINTER #493 @ $C7B3A - STRING #493 @ $C8AAD
+
+#W16($C7B3A)
+//リバ－スボマ－<end>
+
+
+//POINTER #494 @ $C7B3C - STRING #494 @ $C8AB5
+
+#W16($C7B3C)
+//エネルギ－ボンバ－<end>
+
+
+//POINTER #495 @ $C7B3E - STRING #495 @ $C8ABF
+
+#W16($C7B3E)
+//サッシュ<end>
+
+
+//POINTER #496 @ $C7B40 - STRING #496 @ $C8AC4
+
+#W16($C7B40)
+//フロッガ－<end>
+
+
+//POINTER #497 @ $C7B42 - STRING #497 @ $C8ACA
+
+#W16($C7B42)
+//ロングスピア<end>
+
+
+//POINTER #498 @ $C7B44 - STRING #498 @ $C8AD1
+
+#W16($C7B44)
+//放電<end>
+
+
+//POINTER #499 @ $C7B46 - STRING #499 @ $C8AD6
+
+#W16($C7B46)
+//ハンマ－<end>
+
+
+//POINTER #500 @ $C7B48 - STRING #500 @ $C8ADB
+
+#W16($C7B48)
+//ビ－ムランス<end>
+
+
+//POINTER #501 @ $C7B4A - STRING #501 @ $C8AE2
+
+#W16($C7B4A)
+//ランスミサイル<end>
+
+
+//POINTER #502 @ $C7B4C - STRING #502 @ $C8AEA
+
+#W16($C7B4C)
+//バトルスピア<end>
+
+
+//POINTER #503 @ $C7B4E - STRING #503 @ $C886D
+
+#W16($C7B4E)
+//メガビ－ムキャノン<B><end>
+
+
+//POINTER #504 @ $C7B50 - STRING #504 @ $C8AF1
+
+#W16($C7B50)
+//大雪山おろし<end>
+
+
+//POINTER #505 @ $C7B52 - STRING #505 @ $C8AFB
+
+#W16($C7B52)
+//補給装置<end>
+
+
+//POINTER #506 @ $C7B54 - STRING #506 @ $C8B04
+
+#W16($C7B54)
+//グランダッシャ－<end>
+
+
+//POINTER #507 @ $C7B56 - STRING #507 @ $C81F4
+
+#W16($C7B56)
+//必殺烈風正拳突き改<end>
+
+
+//POINTER #508 @ $C7B58 - STRING #508 @ $C809C
+
+#W16($C7B58)
+//爆雷<end>
+
+
+//POINTER #509 @ $C7B5A - STRING #509 @ $C8B0D
+
+#W16($C7B5A)
+//メガ拡散ビ－ム砲<B><end>
+
+
+//POINTER #510 @ $C7B5C - STRING #510 @ $C7D5B
+
+#W16($C7B5C)
+//メガビ－ム砲<B><end>
+
+
+//POINTER #511 @ $C7B5E - STRING #511 @ $C7C80
+
+#W16($C7B5E)
+//<end>
+
+
+//POINTER #512 @ $C7B60 - STRING #512 @ $C7C80
+
+#W16($C7B60)
+//<end>
+
+
+//POINTER #513 @ $C7B62 - STRING #513 @ $C880A
+
+#W16($C7B62)
+//ビ－ムマシンガン<B><end>
+
+
+//POINTER #514 @ $C7B64 - STRING #514 @ $C7EBB
+
+#W16($C7B64)
+//ミサイル<end>
+
+
+//POINTER #515 @ $C7B66 - STRING #515 @ $C7F61
+
+#W16($C7B66)
+//ハンドビ－ム<B><end>
+
+
+//POINTER #516 @ $C7B68 - STRING #516 @ $C83E8
+
+#W16($C7B68)
+//ビ－ムランチャ－<B><end>
+
+
+//POINTER #517 @ $C7B6A - STRING #517 @ $C8771
+
+#W16($C7B6A)
+//ファンネル<end>
+
+
+//POINTER #518 @ $C7B6C - STRING #518 @ $C8771
+
+#W16($C7B6C)
+//ファンネル<end>
+
+
+//POINTER #519 @ $C7B6E - STRING #519 @ $C8771
+
+#W16($C7B6E)
+//ファンネル<end>
+
+
+//POINTER #520 @ $C7B70 - STRING #520 @ $C8B1A
+
+#W16($C7B70)
+//メガビ－ムランチャ－<B><end>
+
+
+//POINTER #521 @ $C7B72 - STRING #521 @ $C7EBB
+
+#W16($C7B72)
+//ミサイル<end>
+
+
+//POINTER #522 @ $C7B74 - STRING #522 @ $C88A6
+
+#W16($C7B74)
+//レ－ザ－<end>
+
+
+//POINTER #523 @ $C7B76 - STRING #523 @ $C7EBB
+
+#W16($C7B76)
+//ミサイル<end>
+
+
+//POINTER #524 @ $C7B78 - STRING #524 @ $C8260
+
+#W16($C7B78)
+//爆弾<end>
+
+
+//POINTER #525 @ $C7B7A - STRING #525 @ $C88BD
+
+#W16($C7B7A)
+//ムチ<end>
+
+
+//POINTER #526 @ $C7B7C - STRING #526 @ $C7EBB
+
+#W16($C7B7C)
+//ミサイル<end>
+
+
+//POINTER #527 @ $C7B7E - STRING #527 @ $C8B26
+
+#W16($C7B7E)
+//マリンビ－ム<B><end>
+
+
+//POINTER #528 @ $C7B80 - STRING #528 @ $C8B2E
+
+#W16($C7B80)
+//オ－ラバルカン<end>
+
+
+//POINTER #529 @ $C7B82 - STRING #529 @ $C8B2E
+
+#W16($C7B82)
+//オ－ラバルカン<end>
+
+
+//POINTER #530 @ $C7B84 - STRING #530 @ $C8B2E
+
+#W16($C7B84)
+//オ－ラバルカン<end>
+
+
+//POINTER #531 @ $C7B86 - STRING #531 @ $C8B2E
+
+#W16($C7B86)
+//オ－ラバルカン<end>
+
+
+//POINTER #532 @ $C7B88 - STRING #532 @ $C86F6
+
+#W16($C7B88)
+//ミサイルポッド<end>
+
+
+//POINTER #533 @ $C7B8A - STRING #533 @ $C7CA9
+
+#W16($C7B8A)
+//ミサイルランチャ－<end>
+
+
+//POINTER #534 @ $C7B8C - STRING #534 @ $C8B36
+
+#W16($C7B8C)
+//ヘアミサイル<end>
+
+
+//POINTER #535 @ $C7B8E - STRING #535 @ $C8B3D
+
+#W16($C7B8E)
+//妖魔光線<end>
+
+
+//POINTER #536 @ $C7B90 - STRING #536 @ $C8886
+
+#W16($C7B90)
+//マグマ弾<end>
+
+
+//POINTER #537 @ $C7B92 - STRING #537 @ $C8B46
+
+#W16($C7B92)
+//60ミリ機銃<end>
+
+
+//POINTER #538 @ $C7B94 - STRING #538 @ $C8B4F
+
+#W16($C7B94)
+//メインメガ粒子砲<B><end>
+
+
+//POINTER #539 @ $C7B96 - STRING #539 @ $C8B5C
+
+#W16($C7B96)
+//サブメガ粒子砲<B><end>
+
+
+//POINTER #540 @ $C7B98 - STRING #540 @ $C8B68
+
+#W16($C7B98)
+//120ミリ機関砲<end>
+
+
+//POINTER #541 @ $C7B9A - STRING #541 @ $C8B74
+
+#W16($C7B9A)
+//30ミリ機銃<end>
+
+
+//POINTER #542 @ $C7B9C - STRING #542 @ $C8B7D
+
+#W16($C7B9C)
+//対空機関砲<end>
+
+
+//POINTER #543 @ $C7B9E - STRING #543 @ $C8B88
+
+#W16($C7B9E)
+//12連装ミサイルランチャ－<end>
+
+
+//POINTER #544 @ $C7BA0 - STRING #544 @ $C8B98
+
+#W16($C7BA0)
+//15連装ミサイルランチャ－<end>
+
+
+//POINTER #545 @ $C7BA2 - STRING #545 @ $C8BA8
+
+#W16($C7BA2)
+//90ミリ機関砲<end>
+
+
+//POINTER #546 @ $C7BA4 - STRING #546 @ $C8BB3
+
+#W16($C7BA4)
+//計都羅喉剣<end>
+
+
+//POINTER #547 @ $C7BA6 - STRING #547 @ $C8BBE
+
+#W16($C7BA6)
+//140ミリ機関砲<end>
+
+
+//POINTER #548 @ $C7BA8 - STRING #548 @ $C8BCA
+
+#W16($C7BA8)
+//160ミリ機関砲<end>
+
+
+//POINTER #549 @ $C7BAA - STRING #549 @ $C8BD6
+
+#W16($C7BAA)
+//180ミリ機関砲<end>
+
+
+//POINTER #550 @ $C7BAC - STRING #550 @ $C8BE2
+
+#W16($C7BAC)
+//20連装ミサイルランチャ－<end>
+
+
+//POINTER #551 @ $C7BAE - STRING #551 @ $C8B4F
+
+#W16($C7BAE)
+//メインメガ粒子砲<B><end>
+
+
+//POINTER #552 @ $C7BB0 - STRING #552 @ $C8B5C
+
+#W16($C7BB0)
+//サブメガ粒子砲<B><end>
+
+
+//POINTER #553 @ $C7BB2 - STRING #553 @ $C8B4F
+
+#W16($C7BB2)
+//メインメガ粒子砲<B><end>
+
+
+//POINTER #554 @ $C7BB4 - STRING #554 @ $C8B4F
+
+#W16($C7BB4)
+//メインメガ粒子砲<B><end>
+
+
+//POINTER #555 @ $C7BB6 - STRING #555 @ $C8B4F
+
+#W16($C7BB6)
+//メインメガ粒子砲<B><end>
+
+
+//POINTER #556 @ $C7BB8 - STRING #556 @ $C8B5C
+
+#W16($C7BB8)
+//サブメガ粒子砲<B><end>
+
+
+//POINTER #557 @ $C7BBA - STRING #557 @ $C8B5C
+
+#W16($C7BBA)
+//サブメガ粒子砲<B><end>
+
+
+//POINTER #558 @ $C7BBC - STRING #558 @ $C8B5C
+
+#W16($C7BBC)
+//サブメガ粒子砲<B><end>
+
+
+//POINTER #559 @ $C7BBE - STRING #559 @ $C7EBB
+
+#W16($C7BBE)
+//ミサイル<end>
+
+
+//POINTER #560 @ $C7BC0 - STRING #560 @ $C7E1F
+
+#W16($C7BC0)
+//格闘<end>
+
+
+//POINTER #561 @ $C7BC2 - STRING #561 @ $C8BF2
+
+#W16($C7BC2)
+//グレ－トブ－スタ－<end>
+
+
+//POINTER #562 @ $C7BC4 - STRING #562 @ $C8BFC
+
+#W16($C7BC4)
+//チェ－ンマイン<end>
+
+
+//POINTER #563 @ $C7BC6 - STRING #563 @ $C8C04
+
+#W16($C7BC6)
+//ハイパ－オ－ラキャノン<end>
+
+
+//POINTER #564 @ $C7BC8 - STRING #564 @ $C8C04
+
+#W16($C7BC8)
+//ハイパ－オ－ラキャノン<end>
+
+
+//POINTER #565 @ $C7BCA - STRING #565 @ $C8C10
+
+#W16($C7BCA)
+//レ－ザ－バルカン<end>
+
+
+//POINTER #566 @ $C7BCC - STRING #566 @ $C8C10
+
+#W16($C7BCC)
+//レ－ザ－バルカン<end>
+
+
+//POINTER #567 @ $C7BCE - STRING #567 @ $C8C19
+
+#W16($C7BCE)
+//ガトリングビ－ム<B><end>
+
+
+//POINTER #568 @ $C7BD0 - STRING #568 @ $C8C23
+
+#W16($C7BD0)
+//レ－ザ－ソ－ド<end>
+
+
+//POINTER #569 @ $C7BD2 - STRING #569 @ $C8C2B
+
+#W16($C7BD2)
+//スプレッドミサイル<end>
+
+
+//POINTER #570 @ $C7BD4 - STRING #570 @ $C8C35
+
+#W16($C7BD4)
+//メガビ－ムランチャ－<B><end>
+
+
+//POINTER #571 @ $C7BD6 - STRING #571 @ $C8C41
+
+#W16($C7BD6)
+//大口径ビ－ム砲<B><end>
+
+
+//POINTER #572 @ $C7BD8 - STRING #572 @ $C8C4E
+
+#W16($C7BD8)
+//デュアルレ－ザ－ソ－ド<end>
+
+
+//POINTER #573 @ $C7BDA - STRING #573 @ $C8C5A
+
+#W16($C7BDA)
+//レ－ザ－ガン<end>
+
+
+//POINTER #574 @ $C7BDC - STRING #574 @ $C8C61
+
+#W16($C7BDC)
+//ダブルキャノン<end>
+
+
+//POINTER #575 @ $C7BDE - STRING #575 @ $C8C69
+
+#W16($C7BDE)
+//ダブルバルカン<end>
+
+
+//POINTER #576 @ $C7BE0 - STRING #576 @ $C8C71
+
+#W16($C7BE0)
+//イオンビ－ム砲<B><end>
+
+
+//POINTER #577 @ $C7BE2 - STRING #577 @ $C8C7B
+
+#W16($C7BE2)
+//マスドライバ－キャノン<end>
+
+
+//POINTER #578 @ $C7BE4 - STRING #578 @ $C8C87
+
+#W16($C7BE4)
+//ツインレ－ザ－ソ－ド<end>
+
+
+//POINTER #579 @ $C7BE6 - STRING #579 @ $C8C92
+
+#W16($C7BE6)
+//ランチャ－ミサイル<end>
+
+
+//POINTER #580 @ $C7BE8 - STRING #580 @ $C8C9C
+
+#W16($C7BE8)
+//レ－ザ－キャノン<end>
+
+
+//POINTER #581 @ $C7BEA - STRING #581 @ $C8CA5
+
+#W16($C7BEA)
+//ドライバ－キャノン<end>
+
+
+//POINTER #582 @ $C7BEC - STRING #582 @ $C8CAF
+
+#W16($C7BEC)
+//小型ミサイル<end>
+
+
+//POINTER #583 @ $C7BEE - STRING #583 @ $C8CB8
+
+#W16($C7BEE)
+//大型ミサイル<end>
+
+
+//POINTER #584 @ $C7BF0 - STRING #584 @ $C8CC1
+
+#W16($C7BF0)
+//荷電粒子ビ－ム<B><end>
+
+
+//POINTER #585 @ $C7BF2 - STRING #585 @ $C8CCE
+
+#W16($C7BF2)
+//60ミリバルカン<end>
+
+
+//POINTER #586 @ $C7BF4 - STRING #586 @ $C8CD7
+
+#W16($C7BF4)
+//プラズマソ－ド<end>
+
+
+//POINTER #587 @ $C7BF6 - STRING #587 @ $C8CDF
+
+#W16($C7BF6)
+//4連ミサイルランチャ－<end>
+
+
+//POINTER #588 @ $C7BF8 - STRING #588 @ $C8CEC
+
+#W16($C7BF8)
+//ロシュセイバ－<end>
+
+
+//POINTER #589 @ $C7BFA - STRING #589 @ $C8CF4
+
+#W16($C7BFA)
+//リ－プスラッシャ－<end>
+
+
+//POINTER #590 @ $C7BFC - STRING #590 @ $C8CFE
+
+#W16($C7BFC)
+//ブラックホ－ルキャノン<end>
+
+
+//POINTER #591 @ $C7BFE - STRING #591 @ $C8D0A
+
+#W16($C7BFE)
+//ブ－ストナックル<P><end>
+
+
+//POINTER #592 @ $C7C00 - STRING #592 @ $C8D14
+
+#W16($C7C00)
+//オメガレ－ザ－<end>
+
+
+//POINTER #593 @ $C7C02 - STRING #593 @ $C8D1C
+
+#W16($C7C02)
+//ブレイククロス<P><end>
+
+
+//POINTER #594 @ $C7C04 - STRING #594 @ $C8D25
+
+#W16($C7C04)
+//レ－ザ－スピア<end>
+
+
+//POINTER #595 @ $C7C06 - STRING #595 @ $C8D2D
+
+#W16($C7C06)
+//<$FB><$00><$80>ビ－ム<end>
+
+
+//POINTER #596 @ $C7C08 - STRING #596 @ $C8D34
+
+#W16($C7C08)
+//計都羅喉剣・暗剣殺<end>
+
+
+//POINTER #597 @ $C7C0A - STRING #597 @ $C8D46
+
+#W16($C7C0A)
+//ダブルオメガレ－ザ－<end>
+
+
+//POINTER #598 @ $C7C0C - STRING #598 @ $C8D51
+
+#W16($C7C0C)
+//ビッグミサイル<end>
+
+
+//POINTER #599 @ $C7C0E - STRING #599 @ $C8D59
+
+#W16($C7C0E)
+//スパイラルアタック<end>
+
+
+//POINTER #600 @ $C7C10 - STRING #600 @ $C8D63
+
+#W16($C7C10)
+//オメガキャノン<end>
+
+
+//POINTER #601 @ $C7C12 - STRING #601 @ $C8D6B
+
+#W16($C7C12)
+//ドリルアタック<end>
+
+
+//POINTER #602 @ $C7C14 - STRING #602 @ $C8D73
+
+#W16($C7C14)
+//テキサスソ－ド<end>
+
+
+//POINTER #603 @ $C7C16 - STRING #603 @ $C8D7B
+
+#W16($C7C16)
+//マックリボルバ－<end>
+
+
+//POINTER #604 @ $C7C18 - STRING #604 @ $C8D84
+
+#W16($C7C18)
+//マックライアット<end>
+
+
+//POINTER #605 @ $C7C1A - STRING #605 @ $C8D8D
+
+#W16($C7C1A)
+//マックライフル<end>
+
+
+//POINTER #606 @ $C7C1C - STRING #606 @ $C8D95
+
+#W16($C7C1C)
+//2連装メガ粒子砲<B><end>
+
+
+//POINTER #607 @ $C7C1E - STRING #607 @ $C8DA4
+
+#W16($C7C1E)
+//アッザムリ－ダ－<map1><map2><end>
+
+
+//POINTER #608 @ $C7C20 - STRING #608 @ $C8DAF
+
+#W16($C7C20)
+//ダ－クサ－ベル<end>
+
+
+//POINTER #609 @ $C7C22 - STRING #609 @ $C88CE
+
+#W16($C7C22)
+//ハリケ－ン<end>
+
+
+//POINTER #610 @ $C7C24 - STRING #610 @ $C8DB7
+
+#W16($C7C24)
+//イビルサイズ<end>
+
+
+//POINTER #611 @ $C7C26 - STRING #611 @ $C8DBE
+
+#W16($C7C26)
+//ヘルファイヤ－<end>
+
+
+//POINTER #612 @ $C7C28 - STRING #612 @ $C8DC6
+
+#W16($C7C28)
+//カ－ズ<end>
+
+
+//POINTER #613 @ $C7C2A - STRING #613 @ $C8DCA
+
+#W16($C7C2A)
+//ファイヤ－ブレス<end>
+
+
+//POINTER #614 @ $C7C2C - STRING #614 @ $C8DD3
+
+#W16($C7C2C)
+//スライスシ－ルド<end>
+
+
+//POINTER #615 @ $C7C2E - STRING #615 @ $C8DDC
+
+#W16($C7C2E)
+//シ－ルドブ－メラン<end>
+
+
+//POINTER #616 @ $C7C30 - STRING #616 @ $C8DE6
+
+#W16($C7C30)
+//イビルリング<end>
+
+
+//POINTER #617 @ $C7C32 - STRING #617 @ $C8DED
+
+#W16($C7C32)
+//怪光線<end>
+
+
+//POINTER #618 @ $C7C34 - STRING #618 @ $C8DF4
+
+#W16($C7C34)
+//した<end>
+
+
+//POINTER #619 @ $C7C36 - STRING #619 @ $C8DF7
+
+#W16($C7C36)
+//大火炎<end>
+
+
+//POINTER #620 @ $C7C38 - STRING #620 @ $C8448
+
+#W16($C7C38)
+//かみつき<end>
+
+
+//POINTER #621 @ $C7C3A - STRING #621 @ $C8DED
+
+#W16($C7C3A)
+//怪光線<end>
+
+
+//POINTER #622 @ $C7C3C - STRING #622 @ $C7DE2
+
+#W16($C7C3C)
+//ゲッタ－トマホ－ク<end>
+
+
+//POINTER #623 @ $C7C3E - STRING #623 @ $C7DEC
+
+#W16($C7C3E)
+//トマホ－クブ－メラン<P><end>
+
+
+//POINTER #624 @ $C7C40 - STRING #624 @ $C7DF8
+
+#W16($C7C40)
+//ゲッタ－ビ－ム<end>
+
+
+//POINTER #625 @ $C7C42 - STRING #625 @ $C8DFE
+
+#W16($C7C42)
+//ストナ－サンシャイン<end>
+
+
+//POINTER #626 @ $C7C44 - STRING #626 @ $C7E08
+
+#W16($C7C44)
+//ゲッタ－ドリル<end>
+
+
+//POINTER #627 @ $C7C46 - STRING #627 @ $C7E24
+
+#W16($C7C46)
+//ゲッタ－ミサイル<end>
+
+
+//POINTER #628 @ $C7C48 - STRING #628 @ $C8E09
+
+#W16($C7C48)
+//ミラ－ジュドリル<end>
+
+
+//POINTER #629 @ $C7C4A - STRING #629 @ $C8E12
+
+#W16($C7C4A)
+//ドリルテンペスト<end>
+
+
+//POINTER #630 @ $C7C4C - STRING #630 @ $C8E1B
+
+#W16($C7C4C)
+//ハンマ－パンチ<end>
+
+
+//POINTER #631 @ $C7C4E - STRING #631 @ $C7E24
+
+#W16($C7C4E)
+//ゲッタ－ミサイル<end>
+
+
+//POINTER #632 @ $C7C50 - STRING #632 @ $C8E23
+
+#W16($C7C50)
+//大雪山おろし二段返し<end>
+
+
+//POINTER #633 @ $C7C52 - STRING #633 @ $C8E34
+
+#W16($C7C52)
+//しっぽ<end>
+
+
+//POINTER #634 @ $C7C54 - STRING #634 @ $C8932
+
+#W16($C7C54)
+//火炎<end>
+
+
+//POINTER #635 @ $C7C56 - STRING #635 @ $C8E38
+
+#W16($C7C56)
+//ドリルブレスト<end>
+
+
+//POINTER #636 @ $C7C58 - STRING #636 @ $C8E40
+
+#W16($C7C58)
+//コロナバリア<end>
+
+
+//POINTER #637 @ $C7C5A - STRING #637 @ $C8E47
+
+#W16($C7C5A)
+//ロングレ－ザ－ソ－ド<end>
+
+
+//POINTER #638 @ $C7C5C - STRING #638 @ $C8E52
+
+#W16($C7C5C)
+//ギガブラスタ－<end>
+
+
+//POINTER #639 @ $C7C5E - STRING #639 @ $C8E5A
+
+#W16($C7C5E)
+//ギガドライバ－キャノン<end>
+
+
+//POINTER #640 @ $C7C60 - STRING #640 @ $C8E66
+
+#W16($C7C60)
+//ビッグバンウェ－ブ<map1><map2><end>
+
+
+//POINTER #641 @ $C7C62 - STRING #641 @ $C8E72
+
+#W16($C7C62)
+//ビ－ムスマ－トガン<B><end>
+
+
+//POINTER #642 @ $C7C64 - STRING #642 @ $C87B8
+
+#W16($C7C64)
+//ビ－ムカノン<B><end>
+
+
+//POINTER #643 @ $C7C66 - STRING #643 @ $C87C9
+
+#W16($C7C66)
+//インコム<end>
+
+
+//POINTER #644 @ $C7C68 - STRING #644 @ $C7EBB
+
+#W16($C7C68)
+//ミサイル<end>
+
+
+//POINTER #645 @ $C7C6A - STRING #645 @ $C8E72
+
+#W16($C7C6A)
+//ビ－ムスマ－トガン<B><end>
+
+
+//POINTER #646 @ $C7C6C - STRING #646 @ $C87B8
+
+#W16($C7C6C)
+//ビ－ムカノン<B><end>
+
+
+//POINTER #647 @ $C7C6E - STRING #647 @ $C87C9
+
+#W16($C7C6E)
+//インコム<end>
+
+
+//POINTER #648 @ $C7C70 - STRING #648 @ $C8E7D
+
+#W16($C7C70)
+//リフレクタ－インコム<end>
+
+
+//POINTER #649 @ $C7C72 - STRING #649 @ $C8364
+
+#W16($C7C72)
+//オ－ラキャノン<end>
+
+
+//POINTER #650 @ $C7C74 - STRING #650 @ $C8364
+
+#W16($C7C74)
+//オ－ラキャノン<end>
+
+
+//POINTER #651 @ $C7C76 - STRING #651 @ $C8341
+
+#W16($C7C76)
+//オ－ラショット<end>
+
+
+//POINTER #652 @ $C7C78 - STRING #652 @ $C7F87
+
+#W16($C7C78)
+//スクリュ－クラッシャ－<P><end>
+
+
+//POINTER #653 @ $C7C7A - STRING #653 @ $C8E88
+
+#W16($C7C7A)
+//どァなァリァ協ゾアラアラア．ア叫<III>ィ+ィNィェィサィッィブィきイむイッイ：イ．イ<$F9>イねゥぺゥめゥよゥろゥイゥカゥ（ウにウゆウペウそェはェジェナェ±ェ!エコエ=エTォ9ォひォやォイォ札αオだオりオパオレオ=オ<x>オ<$FA>オ<pos>オ カ5カがカちカぷカょカ長<k>ガSガみガモガTキそキはキニキホキロキンキ々キ：キTギ・ギがギンギLク「クさクぞクょク贈ずグ6ゲせゲツコ昇<san>ザ+ザゅシニシポシジ!ジDジゆジペジリジ<x>ジ<$FA>ジ<b>スぶズデズTセあセめセニセざゼ散れソサソドソムソヲソポゾガゾ<P>ゾUタ、タぶタゆタDダげダっダぴダべダれダギダニダメダ』ダ<$FE>ダBチWチ」チじチふチんチチチプチ±チ<t>ヂVヂおヂのヂんヂザヂヘヂ<$FA>ヂ~ッぇッでッまッォッヅッパッヒッ<III>ツごツつツぴツゆツヴツぅヅめヅ?テJテごテぱテベテ<$FB>テBデ3デ7デけデのデるデ±デ<$FE>デDトあトぬトむトエトポト府Qド5ドケドツド±ドYナ「ナけナれナガナをニマニ<Nu>ヌかヌだヌコヌッヌ<r>ネAネじネカネ<$FB>ネ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<t>ノぐノっノユノ<b>ハえハふハセハミハヲハ1バトバIパルパだヒウヒサヒヅヒ<P>ヒ<end>
+
+
+//POINTER #654 @ $C7C7C - STRING #654 @ $C8E88
+
+#W16($C7C7C)
+//どァなァリァ協ゾアラアラア．ア叫<III>ィ+ィNィェィサィッィブィきイむイッイ：イ．イ<$F9>イねゥぺゥめゥよゥろゥイゥカゥ（ウにウゆウペウそェはェジェナェ±ェ!エコエ=エTォ9ォひォやォイォ札αオだオりオパオレオ=オ<x>オ<$FA>オ<pos>オ カ5カがカちカぷカょカ長<k>ガSガみガモガTキそキはキニキホキロキンキ々キ：キTギ・ギがギンギLク「クさクぞクょク贈ずグ6ゲせゲツコ昇<san>ザ+ザゅシニシポシジ!ジDジゆジペジリジ<x>ジ<$FA>ジ<b>スぶズデズTセあセめセニセざゼ散れソサソドソムソヲソポゾガゾ<P>ゾUタ、タぶタゆタDダげダっダぴダべダれダギダニダメダ』ダ<$FE>ダBチWチ」チじチふチんチチチプチ±チ<t>ヂVヂおヂのヂんヂザヂヘヂ<$FA>ヂ~ッぇッでッまッォッヅッパッヒッ<III>ツごツつツぴツゆツヴツぅヅめヅ?テJテごテぱテベテ<$FB>テBデ3デ7デけデのデるデ±デ<$FE>デDトあトぬトむトエトポト府Qド5ドケドツド±ドYナ「ナけナれナガナをニマニ<Nu>ヌかヌだヌコヌッヌ<r>ネAネじネカネ<$FB>ネ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<t>ノぐノっノユノ<b>ハえハふハセハミハヲハ1バトバIパルパだヒウヒサヒヅヒ<P>ヒ<end>
+
+
+//POINTER #655 @ $C7C7E - STRING #655 @ $C8E88
+
+#W16($C7C7E)
+//どァなァリァ協ゾアラアラア．ア叫<III>ィ+ィNィェィサィッィブィきイむイッイ：イ．イ<$F9>イねゥぺゥめゥよゥろゥイゥカゥ（ウにウゆウペウそェはェジェナェ±ェ!エコエ=エTォ9ォひォやォイォ札αオだオりオパオレオ=オ<x>オ<$FA>オ<pos>オ カ5カがカちカぷカょカ長<k>ガSガみガモガTキそキはキニキホキロキンキ々キ：キTギ・ギがギンギLク「クさクぞクょク贈ずグ6ゲせゲツコ昇<san>ザ+ザゅシニシポシジ!ジDジゆジペジリジ<x>ジ<$FA>ジ<b>スぶズデズTセあセめセニセざゼ散れソサソドソムソヲソポゾガゾ<P>ゾUタ、タぶタゆタDダげダっダぴダべダれダギダニダメダ』ダ<$FE>ダBチWチ」チじチふチんチチチプチ±チ<t>ヂVヂおヂのヂんヂザヂヘヂ<$FA>ヂ~ッぇッでッまッォッヅッパッヒッ<III>ツごツつツぴツゆツヴツぅヅめヅ?テJテごテぱテベテ<$FB>テBデ3デ7デけデのデるデ±デ<$FE>デDトあトぬトむトエトポト府Qド5ドケドツド±ドYナ「ナけナれナガナをニマニ<Nu>ヌかヌだヌコヌッヌ<r>ネAネじネカネ<$FB>ネ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<r>ノ<t>ノぐノっノユノ<b>ハえハふハセハミハヲハ1バトバIパルパだヒウヒサヒヅヒ<P>ヒ<end>
+
