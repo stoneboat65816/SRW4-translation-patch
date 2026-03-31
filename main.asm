@@ -5,7 +5,7 @@ org $300000
 	fill $100000
 	
 org $FFD7
-	db $0D
+	db $0C
 	
 
 define	bgm_ram1		$78

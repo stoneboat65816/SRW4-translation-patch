@@ -15809,7 +15809,7 @@ write_command_para58E:
 	CLC
 	ADC #$0ED0
 	STA $0D60
-	LDA #$0004
+	LDA #$0003
 	STA $0D62
 	RTS
 write_command_para58F:
@@ -17669,3 +17669,4 @@ waitblanking:
 	BIT $4212
 	BPL -
 	RTS
+	

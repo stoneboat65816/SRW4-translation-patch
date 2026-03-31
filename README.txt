@@ -24,9 +24,23 @@ https://www.youtube.com/@RetroTV_65816
 ######################################################################
 Đây là bản dùng thử để cộng đồng test các lỗi kỹ thuật (nếu có).
 Phần thoại của game bị che, còn những phần text khác thì không bị che.
-Một số chỗ trong menu chưa được thiết kế hoàn chỉnh.
+Một số chỗ trong menu chưa được thiết kế lại cho phù hợp với bản dịch.
 
-TRÁNH ĐỔI TÊN MẶC ĐỊNH CỦA NHÂN VẬT: vì phần này chưa được recode.
+Báo cáo lỗi tại kênh FB: 
+FB/SuperFamicom65816
+
+Những điểm cần chú ý:
+
+1) Phiên bản ROM: dùng bản ver1.1.
+Bản dịch này được xây dựng trên bản gốc tiếng Nhật phiên bản 1.1.
+Nếu bạn dùng bản 1.0 với bản dịch này thì sẽ đơ game.
+
+2) Header: không được phép có 0x0200 byte header do các dumper tạo ra.
+Nếu ROM có phần này thì xóa nó đi. Xem cách xóa ở mục cách sử dụng.
+
+3) Tên nhân vật: TRÁNH ĐỔI TÊN MẶC ĐỊNH CỦA NHÂN VẬT
+Vì phần này chưa được recode.
+
 Bản dịch full không che sẽ được công bố trong thời gian tới.
 
 
